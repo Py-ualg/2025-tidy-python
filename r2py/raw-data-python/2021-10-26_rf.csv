@@ -1,395 +1,360 @@
 ,cl [cm],lcl [cm],fw [cm],species,longitude,is_gravid,rcl [cm],stage,sex,id,cw [cm],latitude,associated_species,depth [m],behaviour
-0,18,7.154574960667834,5,u. olhanen.,-8.01873,False,6.085540774111454,sub_adult,male,1,11.47138849254127,37.02606,['Sea Anemone'],9,Hiding beneath rocks.
-1,49,9.335132853690354,4,A. Farensis,,False,1.136788615164817,pre_puberty,male,2,16.71901527333094,,"['Small Fish', 'Sea Anemone']",9,Interacting with small fish nearby.
-2,21,7.451001734293686,4,U. olhanensis,,False,0.7935973799443167,juvenile,male,3,11.561057462496509,,"['Coral Fragment', 'Crab (Other Species)', 'Sea Sponge', 'Mussel', 'Sea Anemone']",12,Picking biofilm on submerged wood.
-3,39,8.325974610921188,5,u. olhanen.,,False,6.841761357692707,juvenile,male,4,14.25855512014032,,"['Small Fish', 'Jellyfish', 'Polychaete Worm']",9,Picking detritus from seabed.
-4,11,8.163238779313193,6,A. Farensis,,False,0.18238227088939457,juvenile, ,5,10.761806989028583,,['Shrimp'],9,Rapid claw movement while feeding.
-5,34,5.632368330588778,3,A. Farensis,,False,5.3938297701078985,adult,male,6,15.161569431266305,,"['Coral Fragment', 'Hermit Crab', 'Shrimp']",5,Picking biofilm on submerged wood.
-6,17,8.68842138360849,2,A. Farensis,,False,150.0,pre_puberty,male,7,11.732891583778091,,"['Hermit Crab', 'Sea Sponge', 'Mussel', 'Jellyfish']",5,Picking biofilm on submerged wood.
-7,53,7.966835879291563,2,U. olhanensis,,True,5.552547861769964,juvenile, ,8,17.25176572009912,,['Small Fish'],4,Social contact with other crabs.
-8,41,9.551428440682429,6,U. olhanensis,,False,12.303363778439236,juvenile,male,9,11.148383045392922,,"['Sea Anemone', 'Sea Urchin', 'Jellyfish', 'Small Fish']",11,Inspecting discarded crab shell.
-9,19,4.498263095028928,5,u. olhanen.,,False,1.41235352469681,pre_puberty,female,10,12.523935353949465,,"['Hermit Crab', 'Shrimp']",10,Displaying dominance by lifting body.
-10,10,6.398450157996716,6,A farensis,,True,39.37702998249172,adult,male,11,11.569056389307722,,"['Sea Anemone', 'Snail', 'Sea Urchin', 'Sea Sponge']",8,Dragging shell fragment backward.
-11,16,6.613981412329478,6,A. Farensis,,False,34.465956309441275,adult,female,12,11.740988776025917,,"['Shrimp', 'Hermit Crab', 'Barnacle', 'Sea Urchin']",7,Rapid claw movement while feeding.
-12,45,7.929534448836331,6,u. olhanen.,,False,12.034161149746494,juvenile,female,13,17.13579459423716,,"['Mussel', 'Polychaete Worm']",7,Claw waving directed at nearby crab.
-13,15,5.543459379594518,3,A. Farensis,,False,28.411987767836425,pre_puberty,male,14,13.338254813293375,,"['Sea Star', 'Algae', 'Barnacle']",6,Scavenging near tidal pools.
-14,21,5.468365079613081,2,U. olhanensis,,False,12.840046514660473,sub_adult,male,15,11.751826107829553,,"['Coral Fragment', 'Sea Star', 'Hermit Crab']",10,Stillness in cold water.
-15,28,6.939813386177324,3,A. Farensis,,False,2.2260066892525217,sub_adult,male,16,12.118687734916481,,"['Barnacle', 'Snail', 'Algae', 'Coral Fragment', 'Mussel']",9,Climbing submerged rocks.
-16,20,8.141126375784099,2,A farensis,,True,15.259921740389068,sub_adult,female,17,12.455566322377196,,"['Polychaete Worm', 'Jellyfish', 'Mussel', 'Algae', 'Coral Fragment']",7,Guarding a small hole in sediment.
-17,13,8.08462555940876,3,A. Farensis,,True,1.5503503927287523,pre_puberty,male or female,18,10.593424774038317,,"['Hermit Crab', 'Sea Star', 'Crab (Other Species)', 'Sea Urchin', 'Sea Sponge']",7,Retreating quickly from shadow.
-18,25,4.375812209781078,4,A. Farensis,,False,2.154607844031808,pre_puberty,-,19,11.075964790426674,,"['Snail', 'Sea Anemone', 'Sea Star', 'Polychaete Worm', 'Shrimp']",5,Sideways walking along bay edge.
-19,10,5.680149789653208,3,A. Farensis,,False,3.605355754715607,juvenile,female,20,7.207988949176564,,"['Sea Anemone', 'Mussel', 'Snail', 'Polychaete Worm', 'Sea Star']",9,Feeding on small mollusks.
-20,23,9.997165634626374,2,u. olhanen.,,True,0.2297605915843674,pre_puberty,?,21,12.561327396396957,,['Snail'],8,Searching for mates at twilight.
-21,12,8.239090096370465,2,U. olhanensis,,False,5.856186581988009,sub_adult,male,22,9.94353798031505,,"['Mussel', 'Crab (Other Species)', 'Small Fish']",6,Burrowing into sandy sediment.
-22,14,6.9907114260417185,6,U. olhanensis,,False,0.9089868782656226,juvenile,female,23,7.2927969576087275,,['Small Fish'],7,Escaping from aggressive fish.
-23,29,6.236659023075044,2,u. olhanen.,,False,2.29199028114066,juvenile, ,24,12.021200744187626,,"['Barnacle', 'Hermit Crab']",6,Rapid claw movement while feeding.
-24,33,5.772950003081668,5,A farensis,,False,0.08427267579309072,pre_puberty,male,25,16.10164576642427,,"['Mussel', 'Sea Urchin', 'Barnacle']",9,Crab moving quickly across rocks.
-25,8,7.265055885193161,3,A farensis,,False,18.040050924117566,juvenile,female,26,7.720106403349977,,"['Hermit Crab', 'Shrimp']",11,Moving in groups.
-26,38,7.431687060121591,5,A farensis,,False,150.0,pre_puberty,female,27,16.376517776644466,,"['Crab (Other Species)', 'Sea Anemone', 'Small Fish']",10,Moving sideways along sandy bottom.
-27,28,9.174751917478119,4,A farensis,,False,14.638958981382466,sub_adult, ,28,14.489646371446415,,['Sea Star'],10,Moving in groups.
-28,41,7.640964925637254,2,A. Farensis,,False,4.502772162473065,sub_adult,male,29,16.770730588948837,,"['Shrimp', 'Algae', 'Sea Sponge', 'Sea Star', 'Hermit Crab']",9,Hiding beneath rocks.
-29,25,5.499460479083479,6,A farensis,,False,4.65143654210315,sub_adult,male,30,14.196172123061707,,['Sea Sponge'],4,Shaking claws after contact.
-30,19,5.06434339715355,5,U. olhanensis,,False,2.019142757782144,sub_adult,male,31,11.781759046200964,,"['Barnacle', 'Polychaete Worm', 'Snail', 'Sea Star']",4,Claw snapping at diver.
-31,36,6.3667706082263,7,A farensis,,False,150.0,pre_puberty,female,32,13.214829249482758,,['Polychaete Worm'],9,Slow movement near seagrass patches.
-32,55,7.034907300319838,3,u. olhanen.,,False,51.9095227558632,sub_adult,male,33,17.923614619137606,,"['Polychaete Worm', 'Jellyfish']",11,Guarding eggs under abdominal flap.
-33,33,6.892682621261216,3,A. Farensis,,False,0.1973385426056159,sub_adult,female,34,12.218279523103783,,"['Hermit Crab', 'Barnacle', 'Algae']",5,Waving claws rhythmically.
-34,34,4.1875156161431075,4,A. Farensis,,False,22.101657259530832,adult,male,35,14.899373861401903,,"['Barnacle', 'Sea Star', 'Coral Fragment']",9,Dragging shell fragment backward.
-35,17,8.813223664635133,3,A farensis,,True,0.4128220950883211,sub_adult,female,36,11.84851473405958,,"['Shrimp', 'Jellyfish']",5,Crab moving quickly across rocks.
-36,13,3.7603019058671414,2,A farensis,,False,3.273373913679788,juvenile, ,37,10.939729407823805,,"['Sea Urchin', 'Crab (Other Species)']",9,Dragging shell fragment backward.
-37,27,7.99446284843504,2,A farensis,,False,1.500879957920801,juvenile,female,38,11.734994707710435,,"['Shrimp', 'Small Fish', 'Sea Anemone']",6,Stillness in cold water.
-38,15,3.4012288949826806,3,A farensis,,False,22.278725461121287,sub_adult,female,39,8.85013451392723,,"['Hermit Crab', 'Crab (Other Species)', 'Shrimp', 'Sea Star', 'Coral Fragment']",7,Moving toward warmer water pockets.
-39,9,6.48423708347118,7,U. olhanensis,,True,3.459842983711379,juvenile,male or female,40,6.922911571247856,,['Polychaete Worm'],5,Resting in shaded rock crevice.
-40,16,4.884746990218383,5,A. Farensis,,False,150.0,pre_puberty,male,41,8.65208992158084,,['Snail'],8,Camouflaging with surrounding mud.
-41,26,8.640142667752649,2,A. Farensis,,False,1.6197561276436303,sub_adult,male,42,11.546002943574612,,"['Sea Anemone', 'Jellyfish', 'Algae', 'Sea Sponge']",5,Moving sideways along sandy bottom.
-42,22,6.809862326056551,4,u. olhanen.,,True,22.490226137758317,adult,male,43,9.811759921535488,,"['Sea Star', 'Coral Fragment', 'Hermit Crab', 'Sea Urchin']",7,Struggling with entangled seaweed.
-43,19,7.196209914499544,8,A. Farensis,,False,1.6582234275872956,juvenile,male,44,11.968673492272275,,"['Polychaete Worm', 'Sea Anemone', 'Mussel', 'Sea Urchin', 'Sea Star']",5,Moving toward bait.
-44,21,3.0982507408037954,9,A farensis,,False,8.976883630760895,sub_adult,male,45,12.920479905111572,,"['Snail', 'Jellyfish']",5,Waving claws rhythmically.
-45,53,4.81133712828434,5,A farensis,,False,0.7650983197393972,sub_adult,female,46,16.594754768611487,,"['Snail', 'Jellyfish', 'Sea Anemone', 'Barnacle']",9,Waving claws rhythmically.
-46,28,5.088800036531325,2,u. olhanen.,,True,31.027129681999195,sub_adult,female,47,11.667584631502828,,['Sea Star'],9,Retreating quickly from shadow.
-47,21,7.131832173571128,3,u. olhanen.,,False,19.5245862689377,pre_puberty,?,48,10.507274268643313,,"['Sea Star', 'Hermit Crab', 'Algae', 'Barnacle', 'Shrimp']",10,Foraging among seagrass roots.
-48,14,7.6227337807007896,2,A. Farensis,,False,3.011221633861259,sub_adult,male,49,10.308065941111646,,"['Small Fish', 'Sea Sponge', 'Algae', 'Barnacle']",7,Escaping from aggressive fish.
-49,35,8.371779437434364,3,u. olhanen.,,False,150.0,sub_adult,male,50,14.564829399131558,,"['Algae', 'Barnacle', 'Polychaete Worm', 'Jellyfish']",7,Escaping from aggressive fish.
-50,24,7.68383531444638,4,A farensis,,False,2.7509098748847314,juvenile,male,51,14.122106773131367,,"['Polychaete Worm', 'Shrimp', 'Crab (Other Species)']",11,Displaying dominance by lifting body.
-51,27,5.465429276662094,8,A farensis,,True,0.4773601488454876,pre_puberty,?,52,13.3088594841262,,"['Polychaete Worm', 'Hermit Crab', 'Small Fish', 'Sea Sponge']",5,Cleaning claws with rubbing motion.
-52,32,8.659472009190281,4,A farensis,,False,4.577662029712489,adult,male or female,53,13.21614861473137,,"['Jellyfish', 'Barnacle']",10,Mating behavior with antenna touching.
-53,12,6.526859831013096,3,A farensis,,False,5.31404506005932,juvenile,male,54,11.63280652480715,,"['Sea Anemone', 'Coral Fragment', 'Hermit Crab', 'Snail', 'Sea Sponge']",5,Inspecting discarded crab shell.
-54,17,7.874008742192203,8,A. Farensis,,False,12.911584700228541,adult,male,55,11.422965543594945,,"['Jellyfish', 'Sea Star', 'Hermit Crab', 'Barnacle', 'Sea Sponge']",11,Vibrating antennae in water currents.
-55,27,7.056988314778643,3,A farensis,,True,16.99203071084445,pre_puberty,male,56,11.984255098198155,,"['Snail', 'Sea Sponge', 'Shrimp', 'Sea Star', 'Mussel']",8,Inspecting discarded crab shell.
-56,30,9.751059991823722,2,u. olhanen.,,False,150.0,pre_puberty,female,57,13.17667740886906,,['Coral Fragment'],5,Camouflaging with surrounding mud.
-57,17,5.4409639602273625,7,u. olhanen.,,False,0.3145645204328668,pre_puberty, ,58,8.838388662453925,,['Small Fish'],6,Crab moving quickly across rocks.
-58,19,7.162330646312159,2,U. olhanensis,,False,26.52430897846338,pre_puberty,female,59,13.155656213527623,,"['Sea Anemone', 'Hermit Crab']",8,Escaping from aggressive fish.
-59,12,5.326581974080023,4,A. Farensis,,False,0.8100309179190944,pre_puberty,male,60,9.241585232179816,,"['Sea Star', 'Sea Anemone']",3,Hiding in sandy burrow.
-60,19,5.889415882858378,5,A. Farensis,,False,108.81818894619326,juvenile,male,61,11.333175068672297,,"['Sea Urchin', 'Coral Fragment', 'Hermit Crab', 'Mussel']",10,Interaction with hermit crabs.
-61,23,9.946892473166548,3,U. olhanensis,,True,3.430361442592115,adult,male,62,10.717060156740144,,"['Sea Urchin', 'Snail', 'Crab (Other Species)', 'Sea Star']",5,Climbing submerged rocks.
-62,29,5.070312221838562,2,u. olhanen.,,False,3.1703449532551398,pre_puberty,male,63,13.557074320759835,,"['Jellyfish', 'Polychaete Worm']",6,Hiding under seagrass blades.
-63,9,6.3781133732434885,8,u. olhanen.,,False,0.9594124639800259,sub_adult,male,64,7.402870427788356,,"['Coral Fragment', 'Sea Anemone', 'Shrimp']",12,Pausing frequently during exploration.
-64,12,9.626077396353509,6,A. Farensis,,False,68.40354642487229,adult, ,65,7.915292014364527,,['Sea Anemone'],9,Hiding under floating debris.
-65,14,4.406343881112451,9,A farensis,,False,150.0,pre_puberty,?,66,10.155815573622377,,"['Sea Sponge', 'Coral Fragment', 'Shrimp', 'Mussel']",7,Resting in shaded rock crevice.
-66,29,6.146708158739313,5,A. Farensis,,False,6.971264071157473,pre_puberty,female,67,15.27610649903992,,"['Barnacle', 'Hermit Crab', 'Shrimp', 'Sea Star']",8,Using claws to dig into sediment.
-67,8,7.306006922405479,3,A. Farensis,,False,13.661696592679327,adult,male,68,8.999723881814138,,"['Sea Star', 'Snail', 'Crab (Other Species)', 'Small Fish']",7,Rapid crossing of open sand.
-68,26,7.8865762227993415,4,u. olhanen.,,True,1.624683133967135,juvenile,male,69,13.485257568653102,,"['Sea Star', 'Jellyfish', 'Snail', 'Sea Urchin', 'Hermit Crab']",7,Vibrating antennae in water currents.
-69,14,3.5431425022251535,7,u. olhanen.,,True,2.6024684758799537,pre_puberty,nan,70,11.953213664602586,,"['Hermit Crab', 'Sea Star', 'Small Fish', 'Sea Urchin']",7,Using claws to dig into sediment.
-70,58,3.9796771838401988,6,A farensis,,True,1.56123132611274,adult,male,71,16.682391241277998,,['Sea Urchin'],8,Hiding under seagrass blades.
-71,16,3.174946172308137,2,A farensis,,True,131.93164263484326,juvenile,male,72,9.515885471470709,,['Hermit Crab'],6,Vibrating antennae in water currents.
-72,27,5.90067712505187,5,A. Farensis,,False,191.28099154118914,juvenile,male,73,11.525762843450545,,"['Mussel', 'Shrimp']",9,Moving sideways along sandy bottom.
-73,27,7.727104058429968,4,A farensis,,True,19.25890768528647,pre_puberty,male,74,13.465353133444086,,"['Sea Sponge', 'Sea Anemone', 'Polychaete Worm', 'Barnacle', 'Mussel']",8,Climbing algae-covered rocks.
-74,26,7.715686851067075,9,A. Farensis,,False,150.0,pre_puberty,male,75,13.001709109422958,,"['Algae', 'Polychaete Worm', 'Hermit Crab', 'Sea Sponge']",8,Moving sideways along sandy bottom.
-75,27,7.812990050186582,3,A farensis,,False,10.516398816328364,adult,male,76,15.192589924776605,,"['Algae', 'Crab (Other Species)', 'Snail', 'Sea Sponge', 'Small Fish']",7,Crab moving quickly across rocks.
-76,14,8.885288770197747,3,A farensis,,False,-999.0,sub_adult,?,77,8.351744450466315,,"['Shrimp', 'Small Fish']",8,Territorial display against intruder.
-77,32,5.898755767955607,7,A farensis,,False,18.588326734068037,pre_puberty,male,78,12.30407326156416,,"['Sea Urchin', 'Sea Sponge', 'Mussel', 'Shrimp']",9,Climbing barnacle-covered surfaces.
-78,42,5.640149930326615,6,A. Farensis,,True,7.922310043295678,pre_puberty, ,79,15.322083555434874,,"['Small Fish', 'Mussel', 'Jellyfish', 'Shrimp']",10,Moving sideways along sandy bottom.
-79,12,5.151785796360668,3,A. Farensis,,True,0.592678378686605,juvenile,female,80,11.918802049887233,,['Sea Sponge'],4,Climbing vertical rock face.
-80,9,11.071990627788981,4,A. Farensis,,True,1.2813449506270094,pre_puberty,male or female,81,8.542083832246378,,"['Shrimp', 'Jellyfish', 'Small Fish', 'Snail']",9,Picking algae from rock surface.
-81,37,4.955745775729807,2,u. olhanen.,,True,42.89871430423912,sub_adult,male or female,82,14.91971665159192,,"['Algae', 'Coral Fragment']",12,Exploring new territory.
-82,18,8.59319966018722,2,A farensis,,True,0.49126710901629134,juvenile,N/R,83,12.488447953623446,,"['Algae', 'Coral Fragment']",6,Searching for food in tidal pools.
-83,23,5.036735113782047,7,A farensis,,False,93.9653126963262,pre_puberty,male,84,12.708370559289405,,"['Sea Anemone', 'Sea Sponge']",8,Foraging among seagrass roots.
-84,16,8.100514434712172,6,A. Farensis,,False,1.413655148391682,adult,male,85,10.71704303031671,,"['Algae', 'Coral Fragment', 'Small Fish']",8,Climbing vertical rock face.
-85,15,8.01617662578185,4,A farensis,,False,150.0,pre_puberty,female,86,9.99442738794061,,['Snail'],5,Foraging among seagrass roots.
-86,53,8.34132288956035,5,A. Farensis,,False,0.2402698247534248,sub_adult,male or female,87,18.215529084604434,,"['Sea Star', 'Sea Sponge']",8,Moving toward warmer water pockets.
-87,18,8.223797894771321,5,A farensis,,False,29.13947145147563,pre_puberty, ,88,10.87974840595584,,"['Sea Star', 'Hermit Crab', 'Sea Urchin', 'Barnacle']",7,Defensive posture when approached.
-88,14,4.10614011353527,5,u. olhanen.,,False,11.171796575449761,adult,female,89,10.813968127165836,,['Sea Urchin'],7,Territorial display against intruder.
-89,21,7.352739215929093,3,U. olhanensis,,False,0.3312905537592016,sub_adult,male,90,13.783044000364495,,"['Sea Anemone', 'Small Fish']",8,Territorial display against intruder.
-90,16,6.390245652781483,7,A. Farensis,,False,0.7724033621493684,pre_puberty,male,91,13.495385544710658,,"['Small Fish', 'Sea Anemone', 'Snail']",9,Crab moving quickly across rocks.
-91,57,7.098825921445236,2,A. Farensis,,False,53.999747604722735,pre_puberty,male,92,18.80375039432264,,"['Algae', 'Polychaete Worm']",13,Exchanging antenna taps.
-92,22,5.507222116248489,3,u. olhanen.,,False,20.322815633890926,adult,male,93,11.548762427748352,,"['Jellyfish', 'Sea Star', 'Mussel', 'Sea Sponge', 'Sea Anemone']",8,Color changes during molting.
-93,27,7.195822393006769,6,A. Farensis,,False,1.3319711777262169,juvenile,male,94,12.669672347989135,,"['Coral Fragment', 'Hermit Crab']",9,Shaking claws after contact.
-94,8,5.929465880231384,2,u. olhanen.,,False,1.5511901661055745,sub_adult,male or female,95,10.136894809016304,,"['Shrimp', 'Snail', 'Sea Urchin']",10,Searching for mates at twilight.
-95,44,4.891151476457521,7,A. Farensis,,False,8.489227206180399,juvenile,female,96,15.949513375340153,,"['Mussel', 'Sea Anemone']",4,Inspecting discarded crab shell.
-96,33,5.876439548803221,4,U. olhanensis,,True,140.34967087314465,sub_adult,female,97,12.451844287333175,,"['Hermit Crab', 'Mussel', 'Crab (Other Species)']",11,Emerging cautiously from hiding.
-97,16,4.7806548174719925,8,U. olhanensis,,False,0.6398679415766702,pre_puberty,female,98,9.549086639170593,,"['Small Fish', 'Mussel', 'Sea Star']",8,Climbing vertical rock face.
-98,11,6.615476954496473,4,u. olhanen.,,False,8.599527758346602,pre_puberty,male,99,9.854108708411102,,['Algae'],12,Escaping predator silhouette overhead.
-99,10,5.867896958571382,3,U. olhanensis,,False,2.7190917739337452,pre_puberty,male,100,10.762149795869506,,['Mussel'],10,Climbing seaweed stalks.
-100,16,6.517168305418389,4,A. Farensis,,False,2.458110796024569,pre_puberty,female,101,9.273904860023874,,"['Sea Anemone', 'Mussel', 'Sea Sponge']",4,Searching for mates at twilight.
-101,42,8.761691138347565,2,A farensis,,False,48.58117350398393,pre_puberty,female,102,15.77094864431151,,"['Sea Urchin', 'Mussel']",5,Climbing onto submerged logs.
-102,16,7.527526098614838,2,U. olhanensis,,False,12.315211488282284,juvenile,female,103,8.976914764103167,,"['Hermit Crab', 'Sea Sponge']",11,Sideways walking along bay edge.
-103,20,5.606178896047464,2,u. olhanen.,,True,92.8707945385301,pre_puberty,-,104,11.837510784574603,,"['Sea Anemone', 'Sea Star']",11,Climbing submerged rocks.
-104,24,5.563512768113214,6,U. olhanensis,,False,2.3631462739156515,adult,male,105,14.102679336703826,,['Sea Sponge'],5,Claw snapping at diver.
-105,23,7.3314119263730335,6,A. Farensis,,False,4.2538839111593205,adult,male,106,10.153086273993146,,"['Jellyfish', 'Algae', 'Shrimp']",9,Slow movement near seagrass patches.
-106,27,4.998423909179955,4,A farensis,,False,2.110160669963193,pre_puberty,male,107,13.488880941564561,,"['Shrimp', 'Sea Star', 'Sea Urchin', 'Sea Anemone']",9,Climbing onto submerged logs.
-107,24,4.874374665131348,5,U. olhanensis,,False,0.5068820150603127,juvenile,female,108,12.401055451209283,,['Mussel'],8,Feeding on small crustaceans.
-108,34,5.136433823999153,2,A farensis,,False,23.272264500054384,sub_adult,male,109,11.64642366450965,,"['Crab (Other Species)', 'Sea Star', 'Sea Anemone']",8,Pausing frequently during exploration.
-109,17,7.415826308854511,4,U. olhanensis,,False,41.951623089117646,sub_adult,male,110,10.829325513255549,,"['Crab (Other Species)', 'Algae', 'Small Fish']",7,Mating behavior with antenna touching.
-110,20,8.987667750179275,5,u. olhanen.,,False,6.446288747735871,sub_adult,female,111,14.488224299661363,,['Mussel'],7,Using claws to dig into sediment.
-111,28,5.075057000649051,2,A farensis,,False,34.28212043265926,adult,male,112,14.503185427747765,,"['Sea Urchin', 'Mussel', 'Algae', 'Jellyfish']",7,Vibrating antennae in water currents.
-112,45,6.942981620945584,4,u. olhanen.,,False,1.5321957719362713,pre_puberty,male,113,18.301485647803602,,"['Hermit Crab', 'Sea Urchin', 'Sea Sponge']",5,Territorial display against intruder.
-113,40,5.048434717777067,3,u. olhanen.,,False,10.335500338073118,sub_adult,male,114,17.482177214007194,,"['Sea Anemone', 'Algae', 'Sea Urchin', 'Crab (Other Species)']",8,Social contact with other crabs.
-114,35,4.034999212094101,5,A. Farensis,,True,3.6230195873771676,juvenile,male,115,9.30016886055132,,"['Sea Star', 'Jellyfish', 'Sea Anemone', 'Mussel']",3,Waving claws rhythmically.
-115,21,4.438856665669341,6,A. Farensis,,True,7.913700620565017,juvenile,male,116,15.967267302179621,,"['Mussel', 'Sea Urchin', 'Jellyfish', 'Algae', 'Small Fish']",9,Hiding beneath rocks.
-116,31,6.77300416174457,8,u. olhanen.,,False,8.729262662667072,adult,female,117,12.391749364763134,,"['Mussel', 'Snail']",9,Climbing onto submerged logs.
-117,12,7.014567563398527,9,A. Farensis,,False,1.2380857792568163,juvenile,female,118,10.763321542988527,,['Small Fish'],7,Displaying dominance by lifting body.
-118,25,8.00088021770415,5,u. olhanen.,,True,1.5414596198090667,sub_adult,male,119,11.11299738897774,,"['Small Fish', 'Sea Sponge', 'Coral Fragment', 'Polychaete Worm']",7,Displaying dominance by lifting body.
-119,24,7.248660405896514,6,A. Farensis,,True,12.092222815296838,sub_adult, ,120,12.304603374842419,,['Jellyfish'],11,Cleaning claws with rubbing motion.
-120,32,5.271043655561554,4,A farensis,,True,1.0184035014430879,pre_puberty, ,121,13.511619474652644,,"['Snail', 'Hermit Crab', 'Barnacle', 'Small Fish', 'Polychaete Worm']",5,Moving toward warmer water pockets.
-121,22,7.708435459894223,3,A farensis,,False,150.0,pre_puberty,male or female,122,10.853871722096905,,"['Sea Anemone', 'Hermit Crab', 'Sea Sponge', 'Barnacle']",7,Using claws to dig into sediment.
-122,19,4.111326901470839,2,U. olhanensis,,False,0.48612686027689644,pre_puberty,male,123,11.935495150220527,,['Polychaete Worm'],7,Exploring new territory.
-123,18,6.020157712028245,2,A. Farensis,,False,0.6899194745772013,adult,female,124,8.12832628751531,,['Sea Anemone'],9,Hiding beneath rocks.
-124,15,3.7150293682436004,3,A farensis,,False,19.340675258419083,sub_adult, ,125,8.83983111006177,,"['Jellyfish', 'Snail', 'Sea Sponge', 'Shrimp']",6,Retreating into burrow.
-125,44,5.639224442005049,2,A. Farensis,,False,84.88564734088645,sub_adult,male,126,14.209037321039137,,"['Sea Star', 'Shrimp']",5,Climbing barnacle-covered surfaces.
-126,39,6.934326600146708,5,A. Farensis,,False,14.381949480362078,sub_adult,male,127,16.249822810881135,,"['Shrimp', 'Sea Sponge', 'Barnacle', 'Hermit Crab', 'Mussel']",8,Escaping predator silhouette overhead.
-127,18,4.7452874288158,5,A farensis,,False,17.903100964896776,sub_adult,female,128,11.566087994647928,,"['Sea Star', 'Sea Anemone', 'Shrimp']",7,Emerging cautiously from hiding.
-128,31,9.67753477290934,5,A. Farensis,,False,4.533346792249481,juvenile,male,129,14.848820891948927,,"['Hermit Crab', 'Sea Anemone', 'Crab (Other Species)']",6,Feeding on small mollusks.
-129,24,4.697158216036659,5,A farensis,,False,3.7536473896518663,juvenile,male,130,13.445266014849045,,"['Sea Anemone', 'Mussel', 'Small Fish', 'Hermit Crab']",6,Rapid crossing of open sand.
-130,11,7.958457429721029,2,A. Farensis,,False,140.17183259370105,sub_adult,male,131,8.315466453651979,,"['Sea Urchin', 'Polychaete Worm', 'Hermit Crab', 'Jellyfish']",9,Claw waving directed at nearby crab.
-131,12,7.014988291423371,4,u. olhanen.,,False,16.18400756769528,adult,male,132,9.35374994630596,,"['Sea Anemone', 'Crab (Other Species)', 'Polychaete Worm']",4,Pausing frequently during exploration.
-132,23,7.375779372535238,3,A farensis,,True,1.4304820986128437,sub_adult,female,133,15.003795166101412,,['Algae'],10,Exploring new territory.
-133,27,6.636972051222793,2,A farensis,,False,150.0,juvenile,male,134,11.439332361096184,,"['Sea Sponge', 'Coral Fragment']",11,Moving toward warmer water pockets.
-134,49,8.731676765340325,5,A. Farensis,,True,19.59257031056557,juvenile,male,135,17.309421900279045,,"['Sea Urchin', 'Shrimp', 'Algae', 'Snail', 'Small Fish']",10,Territorial display against intruder.
-135,15,7.361604545741025,6,A. Farensis,,True,15.689062829616056,sub_adult,female,136,10.212289884119956,,"['Mussel', 'Small Fish', 'Jellyfish']",6,Picking biofilm on submerged wood.
-136,40,7.245510261915722,2,U. olhanensis,,False,15.357057422286124,juvenile,male,137,17.70399781960873,,"['Algae', 'Sea Star']",8,Rapid claw movement while feeding.
-137,36,7.690127273916753,7,A. Farensis,,False,7.60283039836871,sub_adult,male,138,13.338886720094425,,"['Crab (Other Species)', 'Sea Anemone']",8,Claw waving directed at nearby crab.
-138,23,10.453543295094887,4,A farensis,,True,2.0151339080318715,juvenile, ,139,11.089490992884587,,"['Shrimp', 'Sea Sponge', 'Coral Fragment', 'Jellyfish', 'Sea Urchin']",7,Exploring new territory.
-139,18,5.62431500549274,3,u. olhanen.,,False,1.6732970017408053,juvenile,male,140,7.876543332463923,,"['Sea Anemone', 'Crab (Other Species)', 'Jellyfish', 'Sea Urchin', 'Coral Fragment']",6,Using claws to dig into sediment.
-140,20,7.7520071057203435,2,A farensis,,False,15.882775918933142,juvenile,male or female,141,11.599650297650848,,"['Snail', 'Mussel', 'Polychaete Worm', 'Algae', 'Barnacle']",8,Climbing submerged rocks.
-141,52,7.547858570926865,3,A farensis,,False,27.507086168744603,juvenile,male,142,16.533587418770068,,"['Small Fish', 'Jellyfish', 'Snail', 'Hermit Crab']",8,Moving toward bait.
-142,27,6.5823160361434585,4,A farensis,,False,0.5195136415258965,pre_puberty,?,143,13.401848165714178,,"['Sea Anemone', 'Algae']",9,Claw snapping in competition.
-143,10,9.18714698678559,6,A. Farensis,,False,2.9268966593722556,juvenile,male,144,10.148349273707296,,"['Snail', 'Sea Urchin', 'Crab (Other Species)', 'Jellyfish']",13,Defensive posture when approached.
-144,13,8.022755707807152,2,u. olhanen.,,False,4.338914608037028,pre_puberty,female,145,6.840860912204818,,['Crab (Other Species)'],7,Hiding beneath rocks.
-145,19,6.989606141562471,7,U. olhanensis,,True,46.866743252008455,pre_puberty,female,146,9.383577140678396,,"['Mussel', 'Small Fish', 'Crab (Other Species)', 'Barnacle', 'Hermit Crab']",11,Dragging shell fragment backward.
-146,33,6.75825304778954,6,A farensis,,False,8.81052001409074,sub_adult,female,147,11.372261165437987,,"['Mussel', 'Jellyfish']",8,Retreating into burrow.
-147,18,8.149375807675703,2,u. olhanen.,,False,0.5671840727727315,juvenile,female,148,10.992933051191395,,"['Crab (Other Species)', 'Snail', 'Jellyfish']",8,Hiding beneath rocks.
-148,23,10.052440282782005,5,u. olhanen.,,False,1.0610412708355423,sub_adult,male,149,12.979136190034367,,"['Sea Anemone', 'Sea Star', 'Jellyfish', 'Barnacle', 'Polychaete Worm']",6,Feeding on algae scraped from rocks.
-149,30,5.077851269262084,4,U. olhanensis,,False,71.144636235813,juvenile,male,150,15.194089687937462,,"['Crab (Other Species)', 'Sea Anemone', 'Coral Fragment', 'Sea Star', 'Barnacle']",9,Defensive posture when approached.
-150,24,7.46298679715805,4,A farensis,,False,44.87263092731045,juvenile,male,151,13.227356747021945,,"['Polychaete Worm', 'Algae']",9,Claw snapping at diver.
-151,27,5.231414431812877,3,A farensis,,False,150.0,pre_puberty,male,152,11.264578592262769,,"['Hermit Crab', 'Snail', 'Sea Star', 'Sea Sponge', 'Small Fish']",10,Picking algae from rock surface.
-152,19,2.268407846829337,8,A. Farensis,,True,27.50715025972706,adult,male,153,10.482890603723938,,"['Sea Sponge', 'Shrimp', 'Barnacle']",8,Guarding eggs under abdominal flap.
-153,17,6.6697711312812284,7,A farensis,,False,19.34412321355827,juvenile,female,154,10.967746180379091,,['Shrimp'],6,Climbing seaweed stalks.
-154,19,9.53011456875274,4,A. Farensis,,False,7.214663347331394,adult,male,155,11.943845425641305,,['Shrimp'],11,Escaping predator silhouette overhead.
-155,19,7.563370727591042,3,A. Farensis,,False,22.455146442753364,pre_puberty,male,156,11.199433614521492,,"['Crab (Other Species)', 'Sea Sponge']",10,Feeding on small crustaceans.
-156,47,8.106770651813319,4,A. Farensis,,False,1.9194514376340484,pre_puberty,female,157,17.610799014130425,,['Sea Anemone'],5,Claw snapping in competition.
-157,46,3.611304078430057,2,A farensis,,False,150.0,sub_adult,female,158,15.02008091521446,,"['Mussel', 'Shrimp', 'Sea Star', 'Polychaete Worm']",5,Picking algae from rock surface.
-158,20,2.4381588322372902,2,A. Farensis,,False,9.913658137158684,adult,female,159,9.73080973431139,,"['Snail', 'Shrimp', 'Polychaete Worm']",10,Pausing frequently during exploration.
-159,29,8.259033054808777,5,A. Farensis,,True,6.709422894011189,juvenile,male,160,13.540919047932569,,"['Algae', 'Barnacle']",10,Mating behavior with antenna touching.
-160,43,6.65287489804024,3,U. olhanensis,,False,13.277736012669482,adult,male,161,15.770210221055837,,"['Jellyfish', 'Crab (Other Species)', 'Mussel', 'Snail', 'Hermit Crab']",8,Climbing onto submerged logs.
-161,16,3.4767329108572236,5,u. olhanen.,,False,84.02739262727566,sub_adult,female,162,10.986174318667931,,"['Shrimp', 'Polychaete Worm', 'Barnacle']",6,Crab moving quickly across rocks.
-162,34,8.238189513553955,4,A. Farensis,,False,9.277459139260575,sub_adult,?,163,14.244940454675413,,"['Sea Sponge', 'Crab (Other Species)']",10,Escaping predator silhouette overhead.
-163,29,3.4197349128574603,4,U. olhanensis,,False,1.9445568864943799,juvenile,?,164,13.966395468811772,,"['Coral Fragment', 'Mussel', 'Sea Anemone', 'Algae']",9,Half buried in sand.
-164,16,8.83344044092371,4,A. Farensis,,False,0.36231559258708995,pre_puberty,female,165,12.78338756425917,,"['Small Fish', 'Sea Anemone']",8,Escaping from aggressive fish.
-165,24,10.806929029848003,5,u. olhanen.,,False,0.5284830765192144,sub_adult,male,166,10.148264215700022,,"['Polychaete Worm', 'Jellyfish', 'Snail']",7,Social contact with other crabs.
-166,18,9.019713074830282,3,A farensis,,True,1.0328562620600323,adult,male,167,11.904120943027625,,"['Crab (Other Species)', 'Sea Sponge', 'Mussel']",6,Climbing submerged rocks.
-167,28,9.702987326394647,4,u. olhanen.,,True,6.588997498200879,juvenile,male,168,13.725715647547743,,"['Sea Urchin', 'Sea Star']",7,Waving claws rhythmically.
-168,35,6.5372994348644395,5,A. Farensis,,False,16.34061041053932,pre_puberty,male,169,15.287831561586215,,"['Mussel', 'Small Fish']",12,Burrowing into sandy sediment.
-169,8,9.340267577807808,2,U. olhanensis,,False,90.82366398551736,pre_puberty, ,170,8.94497048619106,,"['Snail', 'Sea Urchin', 'Barnacle', 'Shrimp', 'Hermit Crab']",8,Waving claws rhythmically.
-170,18,6.416744320802023,2,A. Farensis,,False,0.8214533139679344,adult,male,171,11.711189985016713,,"['Mussel', 'Sea Sponge', 'Barnacle', 'Algae', 'Crab (Other Species)']",9,Territorial display against intruder.
-171,16,4.371066549658417,5,A farensis,,True,14.665825018292065,pre_puberty,male,172,10.585454779797312,,"['Small Fish', 'Sea Urchin', 'Algae', 'Sea Anemone']",8,Climbing submerged rocks.
-172,8,4.938003038836291,4,A farensis,,True,14.3445535839947,sub_adult,female,173,8.546765502449404,,"['Crab (Other Species)', 'Sea Anemone', 'Jellyfish', 'Sea Star', 'Mussel']",8,Escaping predator silhouette overhead.
-173,42,2.4932613600317044,2,u. olhanen.,,False,6.697216468687925,pre_puberty,male,174,17.28896326013733,,['Coral Fragment'],6,Feeding on small crustaceans.
-174,52,6.540373373918831,3,A farensis,,False,4.703566731788856,adult,male,175,17.512968611795166,,"['Crab (Other Species)', 'Mussel', 'Sea Sponge']",9,Foraging among seagrass roots.
-175,20,7.485920259454734,16,A. Farensis,,False,6.153126481420355,pre_puberty,?,176,14.037708123400988,,['Crab (Other Species)'],6,Feeding on detritus in shallow water.
-176,15,11.183666704611888,4,U. olhanensis,,False,7.854628341478443,pre_puberty,male,177,9.923720992689752,,"['Sea Anemone', 'Mussel']",5,Interacting with small fish nearby.
-177,12,10.64110225283007,3,A farensis,,False,69.51484666570822,juvenile,male,178,10.41776530933188,,"['Snail', 'Sea Sponge', 'Algae']",7,Retreating quickly from shadow.
-178,23,7.944155287674313,5,u. olhanen.,,True,40.86416484217233,adult,male,179,9.5998569057948,,"['Small Fish', 'Sea Star', 'Sea Urchin', 'Sea Sponge', 'Coral Fragment']",5,Slow movement near seagrass patches.
-179,39,7.747218406039105,4,A farensis,,False,3.351793015362586,pre_puberty,female,180,13.898421719858302,,"['Barnacle', 'Shrimp', 'Sea Star']",8,Claw waving directed at nearby crab.
-180,22,5.000323984098071,4,A. Farensis,,False,0.18143406707600102,adult,female,181,13.953929199844636,,['Hermit Crab'],11,Hiding in sandy burrow.
-181,34,7.054928582648666,2,A. Farensis,,False,14.50237652698593,juvenile,male,182,13.192290543350877,,"['Sea Urchin', 'Sea Anemone', 'Polychaete Worm', 'Shrimp', 'Sea Star']",11,Climbing barnacle-covered surfaces.
-182,51,6.167042526968806,7,U. olhanensis,,False,0.4551820220838333,juvenile, ,183,17.232892079502083,,"['Jellyfish', 'Mussel']",8,Picking algae from rock surface.
-183,18,10.241070033293713,6,u. olhanen.,,True,0.2510822280637315,adult,?,184,10.49867880439819,,"['Coral Fragment', 'Shrimp', 'Sea Star', 'Polychaete Worm', 'Small Fish']",4,Climbing onto submerged logs.
-184,26,5.92984870832758,6,A. Farensis,,True,7.903981942566912,sub_adult,male,185,11.947235580193329,,['Sea Sponge'],7,Moving sideways along sandy bottom.
-185,28,8.267157327509231,6,A. Farensis,,True,6.599106228175247,pre_puberty,nan,186,11.742108244933586,,['Coral Fragment'],8,Resting in shaded rock crevice.
-186,8,8.405945019983603,6,U. olhanensis,,False,37.288860249216036,juvenile,male,187,10.091667303604662,,"['Barnacle', 'Shrimp', 'Sea Urchin', 'Hermit Crab', 'Sea Star']",6,Inspecting discarded crab shell.
-187,9,8.908311194795415,4,u. olhanen.,,False,4.339036939388182,pre_puberty,female,188,9.298499764170655,,"['Barnacle', 'Algae', 'Small Fish']",8,Shaking claws after contact.
-188,49,6.764204522992798,8,A. Farensis,,False,53.16038125317957,pre_puberty,male,189,17.520425831741495,,"['Sea Anemone', 'Barnacle', 'Hermit Crab']",11,Escaping from aggressive fish.
-189,26,9.404990321785258,2,A. Farensis,,False,2.387302518289047,pre_puberty,female,190,11.707886414978601,,"['Snail', 'Sea Sponge', 'Coral Fragment', 'Jellyfish']",9,Guarding eggs under abdominal flap.
-190,32,5.368880953013033,7,A farensis,,True,29.477074569145888,juvenile,male,191,12.8754291877212,,['Sea Star'],9,Using claws to dig into sediment.
-191,13,8.49656064635784,5,A. Farensis,,False,6.2799149245626955,pre_puberty,female,192,11.461173682358444,,"['Polychaete Worm', 'Algae', 'Sea Urchin', 'Snail', 'Crab (Other Species)']",5,Crab moving quickly across rocks.
-192,9,7.008124855573536,5,u. olhanen.,,False,0.3406902802889078,adult,male,193,7.154331077157762,,"['Snail', 'Jellyfish', 'Sea Urchin', 'Sea Anemone', 'Crab (Other Species)']",8,Waving claws rhythmically.
-193,34,4.390380110616947,3,u. olhanen.,,False,4.542774641114261,sub_adult,female,194,16.04746908525852,,"['Sea Urchin', 'Mussel']",5,Rapid crossing of open sand.
-194,25,5.696993449768714,7,u. olhanen.,,False,4.757562622744606,pre_puberty,-,195,10.11837916765306,,"['Sea Anemone', 'Jellyfish']",9,Escaping from aggressive fish.
-195,23,9.832984210958317,6,u. olhanen.,,False,35.12197626304466,adult,female,196,10.846863563750757,,['Jellyfish'],9,Moving sideways along sandy bottom.
-196,12,8.64441080975807,4,u. olhanen.,,False,5.744295490670885,sub_adult,male,197,7.750703956299022,,"['Sea Star', 'Sea Urchin', 'Shrimp']",14,Moving toward bait.
-197,17,5.403772404007611,2,u. olhanen.,,False,6.819045064980019,adult,male,198,14.75158002689979,,"['Crab (Other Species)', 'Barnacle']",11,Using claws to dig into sediment.
-198,45,7.589176078374865,2,A farensis,,False,1.8542813800294127,pre_puberty,male,199,16.79095630865234,,['Hermit Crab'],11,Displaying dominance by lifting body.
-199,17,8.994257597963351,7,u. olhanen.,,False,13.207878368503842,juvenile,male,200,10.653430093514611,,['Crab (Other Species)'],5,Hiding under seagrass blades.
-200,15,8.724229656851687,3,U. olhanensis,,True,16.451981522956665,adult,female,201,9.742084949885278,,"['Hermit Crab', 'Barnacle', 'Algae', 'Sea Star', 'Coral Fragment']",6,Moving sideways along sandy bottom.
-201,14,6.805727311828408,4,A farensis,,True,1.8314531882947,sub_adult,male,202,9.163137734574589,,"['Jellyfish', 'Snail', 'Small Fish']",9,Exchanging antenna taps.
-202,17,11.486743606129245,7,U. olhanensis,,False,37.63658399512712,sub_adult,male,203,12.289350186657833,,['Small Fish'],6,Climbing barnacle-covered surfaces.
-203,24,8.38722614471834,5,U. olhanensis,,False,99.56278272119721,juvenile,male,204,12.997000977387167,,"['Snail', 'Shrimp', 'Mussel', 'Polychaete Worm', 'Crab (Other Species)']",7,Defensive posture when approached.
-204,12,7.8533389880149285,3,A. Farensis,,False,7.489398590233912,sub_adult,female,205,12.792252621322941,,"['Mussel', 'Sea Sponge']",9,Hiding in sandy burrow.
-205,23,7.891294398655832,6,A. Farensis,,True,8.441610648534125,sub_adult,male,206,11.690157102956894,,['Coral Fragment'],6,Foraging among seagrass roots.
-206,45,5.6116261636434075,2,U. olhanensis,,False,0.7921905192317156,pre_puberty,nan,207,17.505126294862663,,"['Jellyfish', 'Hermit Crab', 'Crab (Other Species)', 'Snail']",7,Inspecting discarded crab shell.
-207,58,5.13583722959567,4,A farensis,,False,12.24581256019241,juvenile, ,208,15.790404602038462,,"['Jellyfish', 'Sea Star', 'Shrimp', 'Barnacle', 'Coral Fragment']",6,Exchanging antenna taps.
-208,29,6.122028307181188,3,A farensis,,False,19.233090130920644,pre_puberty,female,209,11.019858920508394,,"['Sea Sponge', 'Shrimp', 'Coral Fragment', 'Algae', 'Sea Anemone']",6,Searching for mates at twilight.
-209,32,5.58555917855301,5,A. Farensis,,False,0.49797896687301124,adult, ,210,10.492168413074358,,"['Algae', 'Snail']",7,Guarding a small hole in sediment.
-210,14,7.657139859525543,5,A. Farensis,,False,22.726508506323984,sub_adult,female,211,7.924499008798885,,"['Sea Sponge', 'Polychaete Worm', 'Crab (Other Species)', 'Shrimp']",7,Searching for mates at twilight.
-211,26,10.114917398042856,3,A farensis,,False,65.41661653221047,juvenile,male,212,11.622164989130171,,['Crab (Other Species)'],11,Slow movement near seagrass patches.
-212,34,4.453175419795297,8,A farensis,,True,1.432716088144166,pre_puberty,male,213,13.256125830911143,,"['Sea Urchin', 'Sea Star', 'Sea Sponge', 'Shrimp']",9,Retreating quickly from shadow.
-213,17,7.02457509715078,7,u. olhanen.,,False,20.395194505453176,adult,female,214,12.177026241248596,,"['Crab (Other Species)', 'Sea Anemone']",10,Hiding in sandy burrow.
-214,39,8.384403721305045,9,U. olhanensis,,True,5.085459541439717,sub_adult,male,215,14.290167822058441,,"['Polychaete Worm', 'Barnacle']",11,Camouflaging with surrounding mud.
-215,19,8.536790921744549,6,U. olhanensis,,False,2.2266976368982485,sub_adult,male,216,10.050108363732086,,"['Sea Sponge', 'Shrimp', 'Hermit Crab', 'Sea Star']",10,Cleaning claws with rubbing motion.
-216,17,7.18845739257158,5,U. olhanensis,,True,6.031032270559788,sub_adult,male,217,11.285363130955218,,"['Algae', 'Coral Fragment']",11,Claw waving directed at nearby crab.
-217,18,8.573647536177592,5,U. olhanensis,,False,5.6432584880403605,adult,male or female,218,9.526292313007932,,"['Small Fish', 'Algae']",8,Claw snapping in competition.
-218,26,6.778966951662008,2,A farensis,,False,86.23316626178163,pre_puberty,male,219,11.854043574038124,,"['Hermit Crab', 'Shrimp', 'Crab (Other Species)', 'Small Fish']",9,Sitting still blending with environment.
-219,31,7.004678313925533,4,A. Farensis,,False,30.69438825668366,pre_puberty,female,220,10.386496146700507,,"['Shrimp', 'Jellyfish', 'Polychaete Worm', 'Sea Urchin']",10,Inspecting discarded crab shell.
-220,51,5.2218250483665924,4,u. olhanen.,,False,4.886368637075608,pre_puberty,male,221,16.32640779941507,,['Sea Anemone'],11,Stillness in cold water.
-221,16,6.944260925337626,5,A. Farensis,,False,43.87045172770682,sub_adult,nan,222,9.39963645859012,,['Jellyfish'],10,Exploring new territory.
-222,24,8.767547541842767,2,A. Farensis,,False,5.803233668083323,sub_adult,female,223,12.232283512810653,,"['Small Fish', 'Algae', 'Hermit Crab', 'Shrimp']",6,Moving toward bait.
-223,20,3.558617894678342,3,A. Farensis,,False,2.7327710129601495,juvenile,male,224,10.845995821206989,,"['Sea Star', 'Shrimp', 'Snail', 'Algae', 'Mussel']",5,Climbing submerged rocks.
-224,29,6.519252997193098,8,A farensis,,False,0.5818597451408688,pre_puberty,male,225,11.15502800766407,,"['Jellyfish', 'Algae', 'Sea Anemone', 'Mussel', 'Small Fish']",7,Hiding under seagrass blades.
-225,17,4.812466630666952,4,u. olhanen.,,True,5.002614546850038,juvenile,male,226,12.377821146776421,,"['Jellyfish', 'Small Fish', 'Sea Urchin']",9,Exploring new territory.
-226,13,7.902635815057917,5,A farensis,,True,2.6895632919217904,juvenile,male,227,10.658900565603629,,"['Sea Star', 'Coral Fragment', 'Algae']",8,Searching for food in tidal pools.
-227,25,7.218042071706378,2,A. Farensis,,False,3.9892632271441544,pre_puberty,nan,228,11.51868561555116,,"['Coral Fragment', 'Barnacle', 'Small Fish', 'Hermit Crab']",9,Climbing vertical rock face.
-228,29,7.474515814732203,11,A. Farensis,,True,51.73497355817047,pre_puberty,female,229,13.114610746243711,,"['Sea Sponge', 'Algae', 'Sea Star', 'Polychaete Worm', 'Coral Fragment']",10,Claw waving directed at nearby crab.
-229,37,6.74701792911995,2,A. Farensis,,False,1.2451689724266868,pre_puberty,male,230,11.418605503427136,,['Polychaete Worm'],10,Rapid claw movement while feeding.
-230,10,7.434591179060371,3,u. olhanen.,,False,11.866867345212874,adult,male,231,11.10434456377736,,"['Mussel', 'Jellyfish', 'Coral Fragment']",9,Stillness in cold water.
-231,30,6.821962442968091,6,u. olhanen.,,False,1.0786253851019205,adult,male,232,14.620862014970855,,"['Jellyfish', 'Crab (Other Species)', 'Sea Star', 'Algae']",6,Picking detritus from seabed.
-232,19,6.351430937735393,4,A. Farensis,,False,109.39920778017712,adult,female,233,12.768370507575245,,"['Sea Sponge', 'Shrimp', 'Jellyfish']",10,Scavenging near tidal pools.
-233,22,7.247924013489604,8,U. olhanensis,,False,3.6438335431538573,sub_adult,nan,234,13.6371455471938,,"['Barnacle', 'Hermit Crab', 'Sea Urchin']",10,Escaping from aggressive fish.
-234,10,8.430195750496974,8,A farensis,,False,1.7740748013612153,adult,female,235,9.721404476382762,,"['Sea Star', 'Hermit Crab', 'Jellyfish', 'Mussel']",11,Claw snapping at diver.
-235,25,6.471895210020933,4,A. Farensis,,True,0.18895452592106288,juvenile,female,236,10.74902508362519,,"['Barnacle', 'Small Fish', 'Sea Star', 'Snail', 'Crab (Other Species)']",10,Retreating into burrow.
-236,17,11.778781846730945,6,A farensis,,False,11.249309545575553,sub_adult,male or female,237,12.936993054027608,,"['Shrimp', 'Mussel', 'Sea Anemone', 'Barnacle']",7,Displaying dominance by lifting body.
-237,38,9.520177397852134,5,A. Farensis,,True,0.9736454164628886,pre_puberty,male,238,15.134099155672622,,"['Mussel', 'Snail', 'Algae']",7,Rapid crossing of open sand.
-238,11,8.047110027825248,4,A farensis,,False,1.227629569053227,juvenile,female,239,10.002643896316922,,['Small Fish'],4,Moving in groups.
-239,24,8.174096095995186,2,U. olhanensis,,False,55.09972433440411,pre_puberty, ,240,12.645847621428707,,"['Sea Urchin', 'Hermit Crab', 'Coral Fragment', 'Mussel', 'Sea Sponge']",6,Scavenging near tidal pools.
-240,44,7.062789713649678,5,A farensis,,False,3.985756881458236,sub_adult,male,241,16.186707982004275,,"['Coral Fragment', 'Algae', 'Sea Star', 'Sea Urchin', 'Shrimp']",12,Guarding a small hole in sediment.
-241,26,5.039989137302535,4,A farensis,,False,8.182662566535999,pre_puberty,male,242,13.699987684547896,,"['Small Fish', 'Hermit Crab', 'Mussel', 'Crab (Other Species)', 'Sea Sponge']",7,Hiding beneath rocks.
-242,24,8.941381247763477,6,A. Farensis,,True,2.3836479565234763,juvenile,?,243,9.65727923881408,,"['Sea Star', 'Hermit Crab']",4,Escaping predator silhouette overhead.
-243,25,7.662673185480163,3,u. olhanen.,,False,150.0,sub_adult,nan,244,9.382223843710976,,"['Sea Star', 'Small Fish']",5,Claw snapping at diver.
-244,30,5.0246826474871815,5,A farensis,,True,1.2162413912453038,sub_adult,female,245,12.978771821932234,,"['Small Fish', 'Jellyfish', 'Hermit Crab', 'Snail']",6,Sitting still blending with environment.
-245,32,7.305001868935615,2,u. olhanen.,,False,1.3107255233600588,juvenile,male,246,15.380100822447144,,"['Algae', 'Coral Fragment', 'Snail', 'Sea Star']",9,Sitting still blending with environment.
-246,43,5.684402277868429,2,U. olhanensis,,False,4.714192963161804,adult,female,247,16.4358710837655,,"['Small Fish', 'Snail', 'Mussel', 'Barnacle', 'Sea Sponge']",8,Picking detritus from seabed.
-247,30,7.492111241213732,2,u. olhanen.,,False,10.43970437650867,sub_adult,male,248,13.007736746588009,,"['Algae', 'Mussel']",12,Moving toward bait.
-248,24,5.577216835714076,2,U. olhanensis,,False,5.345343180969971,pre_puberty,male,249,10.992492477233315,,"['Polychaete Worm', 'Mussel']",12,Claw snapping in competition.
-249,22,9.148205099657178,7,A farensis,,False,44.618113771321205,juvenile,male,250,15.870061007986859,,"['Shrimp', 'Jellyfish']",8,Foraging among seagrass roots.
-250,36,8.47648113468717,6,A. Farensis,,False,4.104969476129764,adult,?,251,12.892808034023428,,"['Jellyfish', 'Sea Sponge', 'Mussel', 'Barnacle', 'Snail']",7,Retreating quickly from shadow.
-251,19,10.014500256951576,3,A. Farensis,,False,0.9019291980250869,pre_puberty,male,252,12.726302650035343,,"['Sea Sponge', 'Small Fish', 'Sea Anemone', 'Coral Fragment']",3,Retreating into burrow.
-252,15,7.531975453514519,4,A. Farensis,,False,150.0,sub_adult,male,253,9.787201962680582,,"['Crab (Other Species)', 'Shrimp', 'Sea Anemone', 'Hermit Crab']",5,Escaping predator silhouette overhead.
-253,15,4.896066549147765,5,u. olhanen.,,True,11.711518924154113,pre_puberty,male,254,12.242933604303403,,"['Crab (Other Species)', 'Coral Fragment', 'Barnacle']",7,Feeding on small crustaceans.
-254,30,6.445360706542132,5,A. Farensis,,False,2.8230299310041387,pre_puberty,female,255,15.990485081126451,,['Crab (Other Species)'],11,Claw snapping in competition.
-255,21,10.06193903795517,5,A farensis,,False,17.21056718316968,juvenile,male,256,11.511979767865913,,['Crab (Other Species)'],3,Shaking claws after contact.
-256,14,4.137952660153808,5,A farensis,,False,2.8294292558403678,juvenile,female,257,9.884603215944537,,['Jellyfish'],5,Dragging shell fragment backward.
-257,10,6.01424474716832,4,A farensis,,False,16.562732112188783,pre_puberty,female,258,12.383406250395849,,"['Sea Anemone', 'Sea Sponge']",10,Camouflaging with surrounding mud.
-258,44,2.4854656370100248,8,A farensis,,False,10.131185652891626,pre_puberty,male,259,13.252406775164204,,['Sea Anemone'],5,Slow movement near seagrass patches.
-259,36,3.9171683374170136,6,U. olhanensis,,False,42.48940962301743,pre_puberty, ,260,13.638184198068348,,['Coral Fragment'],8,Climbing onto submerged logs.
-260,17,8.15398716987079,3,A. Farensis,,True,41.78797434921418,sub_adult,male,261,9.295785511006173,,"['Jellyfish', 'Algae', 'Small Fish', 'Mussel']",12,Feeding on small crustaceans.
-261,11,7.475901052015776,3,A. Farensis,,True,12.972346361544021,sub_adult,-,262,9.507658169677985,,"['Shrimp', 'Jellyfish', 'Mussel', 'Crab (Other Species)', 'Snail']",8,Burrowing into sandy sediment.
-262,17,7.822203914474243,5,A. Farensis,,False,3.40662490318922,adult,male,263,12.521964537083335,,"['Crab (Other Species)', 'Barnacle', 'Algae', 'Hermit Crab']",7,Claw snapping at diver.
-263,37,3.8567797181186334,5,A. Farensis,,False,0.4067505218283067,juvenile,female,264,14.440657187579497,,"['Crab (Other Species)', 'Sea Urchin', 'Barnacle', 'Sea Sponge', 'Mussel']",8,Burrowing into sandy sediment.
-264,43,5.158775171966967,5,u. olhanen.,,False,4.087570282256096,juvenile,male,265,14.676810704391457,,"['Coral Fragment', 'Mussel', 'Sea Urchin', 'Shrimp', 'Small Fish']",12,Searching for mates at twilight.
-265,22,5.350878008757225,7,u. olhanen.,,False,137.15436858197683,sub_adult,male,266,11.177269018579507,,"['Small Fish', 'Hermit Crab', 'Crab (Other Species)', 'Sea Urchin', 'Jellyfish']",8,Stillness in cold water.
-266,24,5.871687090052879,3,u. olhanen.,,False,0.35259827427142904,juvenile,male,267,11.97718861169516,,['Small Fish'],7,Slow movement near seagrass patches.
-267,25,6.018929396019885,5,A. Farensis,,False,0.6947317157650287,sub_adult,male,268,13.151849315457936,,"['Sea Urchin', 'Shrimp', 'Hermit Crab', 'Crab (Other Species)', 'Polychaete Worm']",8,Waving claws rhythmically.
-268,8,4.502191295196306,3,A. Farensis,,False,150.0,juvenile,female,269,9.420273888512412,,"['Coral Fragment', 'Barnacle', 'Sea Anemone']",10,Exploring new territory.
-269,25,6.976854719530571,8,A farensis,,False,15.834219546063265,adult,female,270,11.331588533459886,,"['Jellyfish', 'Crab (Other Species)', 'Sea Urchin', 'Polychaete Worm', 'Shrimp']",9,Moving in groups.
-270,12,5.032446820005454,3,A farensis,,True,4.415463263661672,pre_puberty,male,271,10.540441157495113,,['Small Fish'],6,Social contact with other crabs.
-271,65,7.3570483559887005,3,A farensis,,False,54.07171505933775,juvenile,male,272,18.84483303025052,,"['Sea Sponge', 'Barnacle']",11,Escaping from aggressive fish.
-272,61,2.459795529177896,10,u. olhanen.,,False,4.2217113129934845,adult,male,273,19.28478906075542,,['Shrimp'],9,Waving claws rhythmically.
-273,41,4.398975905546485,3,u. olhanen.,,False,2.4045489686303134,pre_puberty,male or female,274,13.594313512114873,,"['Sea Anemone', 'Shrimp', 'Mussel', 'Sea Urchin']",10,Moving toward warmer water pockets.
-274,11,5.571527604145706,3,A farensis,,True,0.3169619996293998,pre_puberty,male,275,9.891165653725224,,"['Sea Star', 'Algae', 'Mussel', 'Barnacle', 'Sea Urchin']",8,Crab moving quickly across rocks.
-275,51,4.1172026667951,3,A farensis,,False,16.308354115740844,juvenile, ,276,15.176324049865658,,['Sea Star'],6,Exploring new territory.
-276,10,5.939220000256024,3,u. olhanen.,,True,15.380227718395231,juvenile,male,277,8.406117376411656,,"['Jellyfish', 'Mussel', 'Sea Anemone', 'Algae']",9,Half buried in sand.
-277,13,7.57270747967457,3,A farensis,,False,8.889424377800877,adult,male,278,9.859332997187302,,['Hermit Crab'],7,Slow movement near seagrass patches.
-278,51,11.074739193385831,3,A. Farensis,,False,10.889521825740948,pre_puberty,male,279,17.08091206266451,,"['Small Fish', 'Sea Star', 'Barnacle']",8,Feeding on small crustaceans.
-279,23,7.092179859696003,2,u. olhanen.,,False,3.1135676410856132,adult,male,280,11.934647490042972,,['Coral Fragment'],10,Exchanging antenna taps.
-280,19,2.999225424383249,3,u. olhanen.,,True,75.22709187011246,pre_puberty,male,281,14.871424290098432,,"['Sea Sponge', 'Jellyfish', 'Sea Star', 'Crab (Other Species)']",7,Escaping from aggressive fish.
-281,28,7.441446212205136,3,A farensis,,True,72.31778147703587,juvenile,male,282,12.189819751296575,,"['Sea Sponge', 'Mussel', 'Algae', 'Sea Urchin', 'Small Fish']",11,Feeding on algae scraped from rocks.
-282,23,7.098516434051029,6,A. Farensis,,False,15.016382707261291,adult,male,283,11.634336817882348,,"['Mussel', 'Hermit Crab', 'Algae']",7,Scavenging near tidal pools.
-283,13,4.9518162677845226,3,u. olhanen.,,False,0.044170468582457746,juvenile,female,284,10.445828315176422,,"['Hermit Crab', 'Sea Anemone', 'Snail']",6,Interaction with hermit crabs.
-284,26,9.880651512901403,8,A. Farensis,,False,13.005853795714668,pre_puberty,female,285,12.796308655767433,,"['Barnacle', 'Hermit Crab', 'Jellyfish']",6,Resting under shell fragment.
-285,15,7.938972175729774,5,U. olhanensis,,True,40.641400372793555,adult,male,286,8.672667293616962,,"['Mussel', 'Sea Star', 'Sea Sponge', 'Algae']",11,Defensive posture when approached.
-286,17,8.749529894179371,2,A. Farensis,,False,45.43123158322069,sub_adult,female,287,9.931831174417011,,['Sea Anemone'],6,Claw waving directed at nearby crab.
-287,39,4.448137230297796,6,A. Farensis,,False,1.573457618024268,pre_puberty,male,288,13.919717253148752,,"['Sea Urchin', 'Algae', 'Snail']",8,Feeding on detritus in shallow water.
-288,36,6.160199033749189,3,A. Farensis,,False,0.912268041429617,sub_adult,nan,289,16.482187682513576,,"['Snail', 'Sea Anemone', 'Algae', 'Barnacle', 'Sea Star']",9,Waving claws rhythmically.
-289,18,3.781343555811953,4,A farensis,,False,24.05692716191866,adult,female,290,10.044019316234998,,['Sea Anemone'],9,Rapid claw movement while feeding.
-290,50,7.305900497375832,3,A. Farensis,,False,33.351403723724744,adult,male,291,18.21049090171691,,['Mussel'],10,Pausing frequently during exploration.
-291,57,6.730600086888075,4,u. olhanen.,,False,54.09088893860765,sub_adult,male,292,17.540322514662375,,"['Barnacle', 'Polychaete Worm', 'Mussel', 'Small Fish', 'Algae']",9,Moving sideways along sandy bottom.
-292,20,7.356429147023051,2,A. Farensis,,False,16.173733361569624,sub_adult,male or female,293,11.480385498069005,,"['Mussel', 'Sea Anemone']",12,Picking biofilm on submerged wood.
-293,26,9.802262749695192,9,A farensis,,True,3.8403437828785267,adult,male,294,16.443155829158265,,"['Sea Sponge', 'Mussel', 'Small Fish', 'Polychaete Worm', 'Coral Fragment']",6,Swimming short distance to escape.
-294,46,6.973299345437084,2,A. Farensis,,False,43.94968609574975,adult,male,295,16.29288218602482,,['Snail'],4,Claw snapping in competition.
-295,13,7.979064900638298,4,A. Farensis,,False,0.6081519024801342,juvenile,nan,296,10.242351769056464,,"['Algae', 'Hermit Crab', 'Snail', 'Sea Anemone']",8,Claw snapping at diver.
-296,22,6.840346818285415,5,A farensis,,False,11.30807879646533,pre_puberty,male,297,10.83857694235711,,"['Mussel', 'Sea Star', 'Small Fish', 'Coral Fragment', 'Sea Sponge']",4,Moving toward bait.
-297,12,4.566252996095226,5,u. olhanen.,,False,28.45293556216274,sub_adult,female,298,9.191353204949863,,"['Sea Sponge', 'Algae']",11,Climbing submerged rocks.
-298,26,4.84121040187353,6,u. olhanen.,,True,29.708746504912384,pre_puberty,male,299,12.016617101706455,,"['Sea Star', 'Jellyfish', 'Polychaete Worm', 'Sea Sponge', 'Sea Anemone']",7,Searching for food in tidal pools.
-299,36,6.641517658631637,2,A farensis,,False,0.3853581017576249,sub_adult,male or female,300,12.734110934627028,,"['Polychaete Worm', 'Sea Urchin', 'Algae', 'Crab (Other Species)']",7,Picking detritus from seabed.
-300,29,7.506014450991839,6,u. olhanen.,,False,1.3085629908063734,pre_puberty,female,301,12.663016479938817,,"['Sea Star', 'Jellyfish']",8,Cleaning claws with rubbing motion.
-301,52,7.382629291119853,4,U. olhanensis,,False,2.688494607634651,sub_adult,female,302,17.502983766105658,,['Sea Anemone'],8,Dragging shell fragment backward.
-302,21,7.75396688821888,3,u. olhanen.,,True,0.026369411421097087,pre_puberty,male,303,14.511570607841804,,"['Sea Star', 'Algae', 'Sea Sponge', 'Sea Urchin', 'Shrimp']",11,Searching for mates at twilight.
-303,29,9.167843423381932,3,u. olhanen.,,False,2.9508240911791366,juvenile,N/R,304,10.687798987475695,,"['Algae', 'Sea Anemone', 'Mussel']",12,Crab moving quickly across rocks.
-304,15,6.322823551286791,4,u. olhanen.,,False,3.4169261786261917,juvenile,male,305,12.62339209067678,,"['Snail', 'Small Fish']",8,Camouflaging with surrounding mud.
-305,17,6.193055255989602,2,u. olhanen.,,False,12.35713252190373,juvenile,male,306,10.20868031813307,,"['Crab (Other Species)', 'Snail', 'Sea Urchin', 'Small Fish', 'Mussel']",12,Inspecting discarded crab shell.
-306,10,5.27339516331233,7,A. Farensis,,False,1.6610542222880886,pre_puberty,female,307,8.345929317390034,,['Crab (Other Species)'],9,Hiding beneath rocks.
-307,40,7.325697298170259,4,u. olhanen.,,False,6.249703473635354,pre_puberty,female,308,13.77710724544829,,"['Barnacle', 'Sea Star', 'Small Fish', 'Crab (Other Species)', 'Hermit Crab']",7,Exploring new territory.
-308,19,7.5848114914257145,3,A. Farensis,,False,32.81551617427326,pre_puberty,female,309,12.342425009022243,,"['Algae', 'Sea Star', 'Barnacle']",6,Stillness in cold water.
-309,14,6.212296687831545,2,A. Farensis,,False,11.806362073129428,pre_puberty,female,310,11.018348158382258,,"['Small Fish', 'Snail', 'Sea Anemone', 'Hermit Crab']",4,Feeding on small mollusks.
-310,11,7.406731379117532,7,A farensis,,False,22.270874363030707,pre_puberty,female,311,8.994078842210879,,"['Sea Urchin', 'Shrimp']",10,Climbing seaweed stalks.
-311,41,6.798117436088767,9,u. olhanen.,,True,12.464087022425417,sub_adult,female,312,15.796244660184355,,"['Small Fish', 'Crab (Other Species)', 'Mussel', 'Sea Anemone', 'Barnacle']",11,Escaping from aggressive fish.
-312,25,5.602808731467731,2,A farensis,,True,3.1639768498908056,pre_puberty,?,313,13.547036746171301,,"['Snail', 'Sea Urchin']",6,Claw waving directed at nearby crab.
-313,27,4.101398190931113,3,A farensis,,False,32.8167523990813,juvenile, ,314,9.993401317919325,,"['Sea Anemone', 'Algae', 'Barnacle', 'Polychaete Worm']",8,Retreating quickly from shadow.
-314,19,8.08493339190882,6,u. olhanen.,,True,4.791251881537808,sub_adult,male,315,11.455551424360387,,"['Coral Fragment', 'Crab (Other Species)', 'Sea Star', 'Shrimp', 'Snail']",12,Color changes during molting.
-315,45,4.5944011183636615,3,u. olhanen.,,False,57.706796975265206,adult,male,316,14.898104324638073,,"['Crab (Other Species)', 'Hermit Crab', 'Barnacle', 'Snail']",6,Picking detritus from seabed.
-316,36,1.0893778229558677,3,u. olhanen.,,False,12.691721298953937,sub_adult,male,317,11.9828878186297,,['Sea Urchin'],9,Pausing frequently during exploration.
-317,22,6.5631678647118585,6,U. olhanensis,,False,3.4782879723330278,juvenile,N/R,318,10.85953815624112,,"['Sea Anemone', 'Small Fish']",12,Climbing seaweed stalks.
-318,11,4.629108357681737,3,A farensis,,False,0.4600949532916997,pre_puberty,male,319,9.107371246813315,,"['Sea Star', 'Hermit Crab', 'Algae', 'Coral Fragment', 'Jellyfish']",9,Pausing frequently during exploration.
-319,12,2.0317096388647533,4,A. Farensis,,True,0.3972707786828971,juvenile,male,320,11.844312298761423,,"['Barnacle', 'Coral Fragment', 'Sea Urchin']",8,Guarding eggs under abdominal flap.
-320,25,5.651414075599078,5,u. olhanen.,,False,34.46823015351024,pre_puberty,female,321,12.551790068209929,,"['Coral Fragment', 'Barnacle', 'Jellyfish', 'Shrimp']",11,Scavenging near tidal pools.
-321,35,8.4709576942982,7,u. olhanen.,,False,2.513180080038911,adult, ,322,13.123713470041077,,"['Hermit Crab', 'Crab (Other Species)', 'Sea Star']",9,Displaying dominance by lifting body.
-322,26,9.1854396309894,3,U. olhanensis,,False,2.1312752906076082,sub_adult,male or female,323,14.58609406057895,,['Hermit Crab'],6,Guarding a small hole in sediment.
-323,40,8.146436341734173,5,A. Farensis,,False,7.616241008293833,adult,female,324,16.568160256599725,,"['Jellyfish', 'Sea Sponge', 'Barnacle']",7,Crab moving quickly across rocks.
-324,13,4.686837811059761,4,u. olhanen.,,True,95.76040466618453,sub_adult, ,325,8.328040300933443,,"['Barnacle', 'Sea Anemone']",7,Camouflaging with surrounding mud.
-325,44,7.17805606902933,3,A. Farensis,,False,0.3738562278045675,sub_adult,female,326,13.226585729560435,,"['Sea Anemone', 'Crab (Other Species)', 'Sea Urchin', 'Jellyfish']",10,Social contact with other crabs.
-326,10,7.585428287935152,2,A. Farensis,,False,1.0050590420416652,pre_puberty,male,327,10.734762022386018,,"['Mussel', 'Shrimp', 'Algae', 'Sea Anemone', 'Sea Star']",8,Slow movement near seagrass patches.
-327,18,7.29297087339954,2,A. Farensis,,False,-999.0,sub_adult,male,328,13.270865386356675,,"['Hermit Crab', 'Small Fish', 'Sea Sponge', 'Barnacle', 'Shrimp']",9,Resting under shell fragment.
-328,28,8.325087721549563,2,A. Farensis,,False,12.863727918382851,sub_adult,male,329,13.85822977279704,,"['Sea Sponge', 'Sea Urchin', 'Coral Fragment']",9,Climbing seaweed stalks.
-329,35,7.297769972042853,6,A. Farensis,,False,6.868749858354265,pre_puberty,male or female,330,13.521912202975347,,['Coral Fragment'],12,Climbing submerged rocks.
-330,15,8.948217529270208,2,A. Farensis,,False,5.977804925049051,pre_puberty,male,331,11.83096647051506,,"['Mussel', 'Sea Urchin']",10,Interacting with small fish nearby.
-331,29,6.0420268656803975,4,A farensis,,False,6.186864333577688,pre_puberty,male,332,10.509602413654385,,"['Shrimp', 'Hermit Crab']",9,Struggling with entangled seaweed.
-332,32,8.1970742062292,4,U. olhanensis,,False,4.675802707176172,sub_adult,nan,333,17.38095902440913,,"['Hermit Crab', 'Crab (Other Species)', 'Sea Urchin']",5,Resting under shell fragment.
-333,11,0.8197278068337743,8,A farensis,,False,4.102934606464039,pre_puberty,female,334,10.964279424727183,,['Snail'],4,Guarding a small hole in sediment.
-334,22,5.695126167993254,4,A farensis,,False,5.806822476024611,adult,male,335,12.89265425451013,,"['Sea Urchin', 'Barnacle', 'Crab (Other Species)', 'Shrimp', 'Coral Fragment']",7,Vibrating antennae in water currents.
-335,25,4.765316120010275,3,A. Farensis,,True,4.8188346303151866,pre_puberty, ,336,13.053626752880785,,"['Small Fish', 'Polychaete Worm', 'Mussel', 'Barnacle', 'Jellyfish']",9,Crab moving quickly across rocks.
-336,8,5.303138864733385,3,u. olhanen.,,False,40.5476470715668,juvenile,female,337,9.230062149618696,,"['Sea Star', 'Jellyfish', 'Sea Sponge', 'Algae', 'Polychaete Worm']",8,Claw snapping at diver.
-337,39,6.0130385013489525,3,A. Farensis,,True,150.0,pre_puberty,female,338,11.23485661287754,,"['Jellyfish', 'Mussel']",10,Stillness in cold water.
-338,31,9.333713874223191,8,A. Farensis,,False,4.3421731173874845,juvenile, ,339,12.76863528256977,,"['Snail', 'Sea Sponge', 'Crab (Other Species)', 'Sea Urchin']",6,Claw snapping in competition.
-339,12,5.9868942231139215,3,A. Farensis,,False,116.95167010739718,sub_adult,male,340,9.855266405716279,,"['Barnacle', 'Sea Anemone', 'Coral Fragment', 'Sea Sponge']",5,Moving in groups.
-340,24,8.551605512644697,7,u. olhanen.,,True,25.39524107253984,sub_adult,male,341,12.347199393781707,,"['Sea Star', 'Hermit Crab', 'Sea Anemone', 'Snail', 'Coral Fragment']",6,Using claws to dig into sediment.
-341,13,9.058810402288069,2,u. olhanen.,,False,6.608516789121922,sub_adult,male or female,342,9.060907641764063,,['Snail'],7,Camouflaging with surrounding mud.
-342,13,7.817419346021073,4,U. olhanensis,,False,4.394833683489894,juvenile,male,343,9.53183404125392,,"['Barnacle', 'Sea Star', 'Shrimp']",10,Struggling with entangled seaweed.
-343,43,6.938673238783082,2,A. Farensis,,False,33.59214658680724,sub_adult,male,344,16.032393547129185,,['Crab (Other Species)'],12,Rapid crossing of open sand.
-344,12,7.458796433034809,6,U. olhanensis,,False,61.044608916206386,sub_adult,female,345,10.000344250846226,,"['Sea Sponge', 'Jellyfish', 'Mussel']",10,Hiding beneath rocks.
-345,17,3.0413956583188595,4,u. olhanen.,,True,58.83726778571672,sub_adult,male or female,346,8.709398507639245,,"['Sea Star', 'Small Fish', 'Crab (Other Species)', 'Barnacle', 'Algae']",9,Crab moving quickly across rocks.
-346,15,4.503928164080589,4,A farensis,,False,34.649275146058486,adult,female,347,11.932030762205326,,"['Snail', 'Shrimp', 'Algae', 'Mussel']",6,Hiding under floating debris.
-347,21,7.594243097290796,3,A farensis,,False,1.980708595653856,pre_puberty, ,348,12.874981493349821,,['Sea Anemone'],8,Inspecting discarded crab shell.
-348,16,9.871699121761765,3,u. olhanen.,,False,40.64140581430702,sub_adult,female,349,10.743904795088275,,"['Sea Anemone', 'Snail', 'Sea Urchin', 'Small Fish', 'Shrimp']",8,Escaping predator silhouette overhead.
-349,11,6.753780450094744,7,A farensis,,True,3.772862924435631,sub_adult,male or female,350,13.237143886115854,,"['Small Fish', 'Shrimp', 'Hermit Crab', 'Mussel', 'Barnacle']",7,Hiding under seagrass blades.
-350,12,6.489240775714707,6,A farensis,,False,35.060958637771165,pre_puberty,male,351,9.480104504248171,,"['Jellyfish', 'Mussel']",9,Feeding on small crustaceans.
-351,26,4.785113338290355,8,A. Farensis,,False,6.94514641848766,juvenile,male,352,12.575443010461518,,"['Mussel', 'Sea Sponge']",8,Mating behavior with antenna touching.
-352,23,3.392358619542373,4,A. Farensis,,False,14.965300862910043,pre_puberty,?,353,12.010401799036075,,"['Jellyfish', 'Sea Urchin', 'Coral Fragment', 'Snail']",8,Climbing submerged rocks.
-353,13,6.063237828523706,8,U. olhanensis,,True,7.986413883601772,sub_adult,female,354,9.323168095359174,,"['Crab (Other Species)', 'Mussel', 'Shrimp']",10,Struggling with entangled seaweed.
-354,9,6.079387409280771,2,A farensis,,True,0.040331707178683895,adult,-,355,12.651859029140972,,"['Polychaete Worm', 'Shrimp']",9,Pausing frequently during exploration.
-355,21,5.98978049880194,4,A. Farensis,,False,15.3324435234813,pre_puberty,nan,356,12.831355525332748,,"['Small Fish', 'Snail', 'Crab (Other Species)', 'Sea Star']",12,Defensive posture when approached.
-356,10,5.739699892000422,8,A. Farensis,,False,9.295912142932165,sub_adult,female,357,12.10786808854973,,"['Barnacle', 'Coral Fragment', 'Mussel', 'Algae']",5,Slow movement near seagrass patches.
-357,22,7.5404814584464805,3,A. Farensis,,False,5.138520466594156,juvenile,male,358,8.858241168984167,,"['Sea Sponge', 'Snail', 'Hermit Crab', 'Sea Urchin']",8,Struggling with entangled seaweed.
-358,19,4.064654447439594,8,A. Farensis,,False,5.669492007516155,pre_puberty,male,359,8.727359408175847,,['Coral Fragment'],8,Escaping from aggressive fish.
-359,30,7.513102238264677,5,A. Farensis,,False,10.796363293467028,sub_adult,?,360,14.308754404140512,,"['Polychaete Worm', 'Barnacle', 'Mussel', 'Sea Star']",10,Exploring new territory.
-360,15,6.972179191353853,3,A. Farensis,,False,3.2434403117485284,pre_puberty,male,361,10.457562900175809,,"['Small Fish', 'Sea Urchin']",8,Territorial display against intruder.
-361,42,9.156189365896445,6,A farensis,,False,1.4166174147974369,adult,male,362,13.92933124968533,,"['Coral Fragment', 'Algae', 'Small Fish']",9,Displaying dominance by lifting body.
-362,28,8.582225670789448,6,u. olhanen.,,True,1.4691898286425282,adult,N/R,363,11.911378005630244,,"['Sea Sponge', 'Crab (Other Species)', 'Sea Urchin', 'Sea Star', 'Barnacle']",9,Climbing seaweed stalks.
-363,15,8.191106750487688,2,u. olhanen.,,False,150.0,adult,male,364,10.831904936483655,,"['Mussel', 'Jellyfish', 'Sea Anemone']",4,Hiding beneath rocks.
-364,8,7.469935491243391,7,A. Farensis,,True,10.712601985360832,adult,male,365,7.215242945081214,,"['Shrimp', 'Barnacle']",8,Crab moving quickly across rocks.
-365,36,8.816535075366236,8,A farensis,,True,0.3761205897499207,juvenile,female,366,15.557378782069016,,"['Snail', 'Coral Fragment', 'Crab (Other Species)', 'Hermit Crab']",11,Searching for food in tidal pools.
-366,12,7.510757106468577,6,u. olhanen.,,False,15.983013794001725,pre_puberty, ,367,8.99741761239152,,['Polychaete Worm'],7,Exchanging antenna taps.
-367,22,6.7205818611707935,2,A farensis,,True,7.2079071941085475,sub_adult,male or female,368,11.573075141576508,,['Coral Fragment'],8,Feeding on small mollusks.
-368,29,7.339560299644709,2,A farensis,,False,2.445756744375182,pre_puberty,-,369,13.005138730208214,,"['Sea Urchin', 'Snail', 'Jellyfish', 'Mussel', 'Coral Fragment']",6,Vibrating antennae in water currents.
-369,41,10.226072307773403,5,A farensis,,False,1.9118956536371041,adult,male,370,12.838688035944235,,"['Sea Anemone', 'Polychaete Worm', 'Small Fish']",8,Territorial display against intruder.
-370,28,8.750876831647115,6,u. olhanen.,,False,25.689430195631157,sub_adult, ,371,12.921305821252988,,"['Crab (Other Species)', 'Shrimp']",5,Displaying dominance by lifting body.
-371,48,5.406005681087761,4,u. olhanen.,,False,131.79980633372074,sub_adult, ,372,15.785277301418038,,"['Jellyfish', 'Sea Anemone']",8,Half buried in sand.
-372,21,6.326456624444096,8,u. olhanen.,,False,3.6990377131302603,sub_adult,female,373,12.086534988702445,,"['Mussel', 'Sea Urchin', 'Sea Anemone', 'Small Fish']",7,Climbing seaweed stalks.
-373,33,5.516789167328013,2,A. Farensis,,True,11.424446329029717,sub_adult,male,374,14.403164519032433,,"['Crab (Other Species)', 'Sea Sponge']",7,Hiding in sandy burrow.
-374,21,10.135572244911444,5,A farensis,,False,0.5239133351414391,pre_puberty,male,375,11.264870586813078,,"['Polychaete Worm', 'Barnacle', 'Jellyfish', 'Sea Urchin', 'Coral Fragment']",10,Defensive posture when approached.
-375,23,11.033467387114573,5,u. olhanen.,,False,102.25003189146996,pre_puberty,female,376,8.124505707876544,,"['Snail', 'Algae']",9,Burrowing into sandy sediment.
-376,23,8.873066444933286,4,u. olhanen.,,True,5.078612990150194,adult,female,377,13.655678547675766,,"['Small Fish', 'Sea Sponge', 'Crab (Other Species)']",5,Guarding eggs under abdominal flap.
-377,41,7.385876865221455,7,u. olhanen.,,True,3.344563254585769,adult,?,378,15.910629065952726,,"['Crab (Other Species)', 'Mussel', 'Jellyfish', 'Barnacle', 'Sea Anemone']",10,Retreating quickly from shadow.
-378,39,5.62576063662525,2,A. Farensis,,True,3.6035520739490767,adult,male,379,13.497511887774358,,"['Crab (Other Species)', 'Sea Urchin', 'Sea Sponge', 'Snail']",7,Claw waving directed at nearby crab.
-379,18,2.989183103806331,5,u. olhanen.,,False,0.315425264219152,juvenile,male,380,11.266209211330573,,"['Hermit Crab', 'Jellyfish', 'Sea Star', 'Crab (Other Species)', 'Sea Urchin']",9,Cleaning claws with rubbing motion.
-380,13,6.090406246771057,3,A. Farensis,,False,3.907663713529826,juvenile,male,381,10.482648034994812,,"['Snail', 'Sea Star', 'Shrimp']",8,Vibrating antennae in water currents.
-381,21,5.754460541276571,4,A. Farensis,,False,-999.0,sub_adult,male or female,382,13.5560187651341,,"['Crab (Other Species)', 'Barnacle', 'Small Fish']",9,Searching for mates at twilight.
-382,14,7.7297297943944265,3,A. Farensis,,False,0.6063459153173227,sub_adult,male,383,11.534814893010074,,['Sea Urchin'],11,Color changes during molting.
-383,10,6.822020593206795,6,U. olhanensis,,False,11.627325693559845,adult,male,384,11.732705096707702,,"['Barnacle', 'Sea Star', 'Shrimp', 'Jellyfish', 'Polychaete Worm']",6,Sideways walking along bay edge.
-384,15,6.155934812426462,5,A. Farensis,,False,160.36610743439033,sub_adult, ,385,13.348478252730942,,"['Coral Fragment', 'Mussel', 'Barnacle', 'Sea Urchin']",9,Sitting still blending with environment.
-385,20,9.29122379299804,5,A. Farensis,,False,12.193129297183717,juvenile,female,386,12.160615747954196,,['Sea Anemone'],8,Crab moving quickly across rocks.
-386,38,9.02103843450056,6,U. olhanensis,,False,142.69793003539,pre_puberty,female,387,15.085228479065202,,"['Mussel', 'Snail']",8,Escaping predator silhouette overhead.
-387,22,6.984875361744938,3,u. olhanen.,,False,138.3546248992523,pre_puberty,male,388,10.89689628963436,,"['Barnacle', 'Algae']",11,Using claws to dig into sediment.
-388,27,10.108740543615662,9,u. olhanen.,,False,7.184783410882637,pre_puberty, ,389,8.861328230096913,,['Sea Urchin'],10,Claw snapping at diver.
-389,22,4.3973949456874895,8,A. Farensis,,False,61.165718929436,pre_puberty,?,390,12.800418071236194,,"['Sea Star', 'Barnacle', 'Hermit Crab']",7,Picking detritus from seabed.
-390,29,5.51816685921319,6,A. Farensis,,False,150.0,sub_adult,female,391,12.640916533300913,,['Coral Fragment'],10,Scavenging near tidal pools.
-391,15,8.185226651102287,5,A. Farensis,,True,3.1668392317273573,juvenile,male,392,11.25504207944049,,['Hermit Crab'],10,Picking algae from rock surface.
-392,26,6.82724806969515,7,U. olhanensis,,False,0.13874414559689452,sub_adult,male,393,13.255937400405918,,"['Snail', 'Sea Anemone', 'Barnacle', 'Sea Star', 'Sea Sponge']",13,Camouflaging with surrounding mud.
-393,22,9.050229954915057,3,u. olhanen.,,False,0.1975526011476689,sub_adult,male,394,12.687411180887924,,"['Small Fish', 'Sea Sponge', 'Crab (Other Species)', 'Sea Star', 'Algae']",7,Retreating into burrow.
+0,37,9.19223944922834,6,A farensis,-8.01873,True,6.103025620136222,adult,male,1,24.395805883208006,37.02606,"['Sea Urchin', 'Jellyfish', 'Hermit Crab']",5,Using claws to dig into sediment.
+1,11,5.5316417659923625,2,u. olhanen.,,False,11.389959173628982,sub_adult,female,2,18.542314679499203,,"['Snail', 'Sea Urchin', 'Algae']",9,Hiding under seagrass blades.
+2,35,7.426098668397855,4,u. olhanen.,,False,3.9630071425079976,juvenile,male,3,22.22817572380881,,"['Coral Fragment', 'Hermit Crab', 'Sea Sponge', 'Barnacle', 'Jellyfish']",8,Dragging shell fragment backward.
+3,30,8.602740146691104,3,u. olhanen.,,False,14.291021927537258,sub_adult,male,4,17.53832808577672,,"['Algae', 'Sea Star', 'Sea Anemone', 'Polychaete Worm']",13,Hiding beneath rocks.
+4,21,6.376678084637429,8,u. olhanen.,,False,0.4928240345679187,juvenile,female,5,18.248284212102394,,"['Shrimp', 'Sea Urchin', 'Sea Anemone']",9,Feeding on detritus in shallow water.
+5,25,6.092828468064296,5,u. olhanen.,,False,3.0790486434429294,sub_adult,female,6,21.069394666914942,,"['Hermit Crab', 'Sea Urchin', 'Sea Star', 'Barnacle', 'Sea Sponge']",10,Struggling with entangled seaweed.
+6,27,6.278333354986353,4,u. olhanen.,,True,0.16597739220310978,sub_adult,male,7,21.02765452194153,,['Sea Anemone'],8,Resting under shell fragment.
+7,10,6.710447454686212,2,A. Farensis,,False,7.635533158176329,sub_adult,male,8,16.3714709993752,,"['Polychaete Worm', 'Shrimp', 'Barnacle']",11,Scavenging near tidal pools.
+8,8,8.14255209207148,4,A. Farensis,,True,2.6546660919156557,pre_puberty,male,9,15.334696255322164,,"['Algae', 'Mussel', 'Sea Anemone', 'Hermit Crab']",12,Waving claws rhythmically.
+9,53,7.414474412224035,2,A. Farensis,,True,18.46482536028836,pre_puberty,male,10,25.029972094959835,,"['Coral Fragment', 'Sea Sponge', 'Mussel']",10,Pausing frequently during exploration.
+10,33,8.040686875696965,6,A. Farensis,,False,0.5065181125978954,sub_adult,male or female,11,16.995428205943377,,"['Polychaete Worm', 'Hermit Crab', 'Crab (Other Species)', 'Shrimp']",8,Retreating into burrow.
+11,16,5.039112907956921,7,A farensis,,False,9.950665384370213,juvenile,female,12,14.805742988949067,,"['Hermit Crab', 'Sea Anemone']",7,Picking algae from rock surface.
+12,11,7.945024720037441,5,A. Farensis,,True,7.133777203992573,sub_adult,?,13,13.820241969163341,,"['Polychaete Worm', 'Coral Fragment', 'Small Fish', 'Jellyfish']",6,Climbing vertical rock face.
+13,48,8.07945473903152,3,U. olhanensis,,True,6.513527647277003,sub_adult,male,14,20.41085040765403,,"['Polychaete Worm', 'Small Fish', 'Sea Star']",12,Escaping from aggressive fish.
+14,11,6.353514615331697,9,U. olhanensis,,False,46.725920415474604,juvenile,-,15,13.40379257397112,,"['Jellyfish', 'Sea Anemone']",9,Rapid crossing of open sand.
+15,9,6.379600762465021,2,A farensis,,False,2.602948949674964,sub_adult,male,16,16.090284799118592,,"['Snail', 'Sea Star']",10,Sideways walking along bay edge.
+16,18,6.826645343728564,2,u. olhanen.,,False,150.0,sub_adult,female,17,21.70405793277794,,"['Crab (Other Species)', 'Small Fish', 'Jellyfish', 'Algae', 'Barnacle']",9,Sitting still blending with environment.
+17,20,8.970709894169762,2,U. olhanensis,,False,175.25314602708903,pre_puberty,male,18,18.34747629111425,,"['Hermit Crab', 'Sea Star']",10,Displaying dominance by lifting body.
+18,28,8.3329558820229,3,A farensis,,False,1.7744821911813868,pre_puberty,female,19,17.219619377760427,,"['Sea Sponge', 'Hermit Crab', 'Sea Star', 'Sea Anemone']",9,Inspecting discarded crab shell.
+19,14,10.185068736859385,7,u. olhanen.,,False,31.855876293647096,adult,male,20,16.575326248641304,,"['Jellyfish', 'Sea Sponge', 'Hermit Crab', 'Mussel', 'Polychaete Worm']",7,Climbing submerged rocks.
+20,23,8.60858821487471,3,A farensis,,True,129.92540317433108,juvenile,male,21,18.488619635794528,,"['Algae', 'Mussel', 'Shrimp', 'Jellyfish', 'Snail']",9,Rapid claw movement while feeding.
+21,18,6.5134265138178495,7,A farensis,,False,40.89516314327654,sub_adult, ,22,16.845062011311505,,"['Sea Urchin', 'Small Fish']",10,Sideways walking along bay edge.
+22,35,7.987505799767123,5,A farensis,,False,6.885256196271458,sub_adult,male,23,20.246958198878882,,"['Shrimp', 'Barnacle', 'Sea Anemone', 'Sea Urchin', 'Hermit Crab']",12,Cleaning claws with rubbing motion.
+23,15,9.02372609998249,2,U. olhanensis,,False,6.878932159581438,sub_adult,male,24,18.334607671238786,,"['Jellyfish', 'Sea Star', 'Shrimp', 'Sea Sponge', 'Mussel']",8,Moving sideways along sandy bottom.
+24,9,6.620128721579149,3,U. olhanensis,,False,2.61797124417785,adult,male or female,25,14.481091724109026,,"['Sea Star', 'Mussel', 'Shrimp', 'Small Fish']",8,Pausing frequently during exploration.
+25,10,8.197656511043979,10,u. olhanen.,,False,22.031807850375564,sub_adult,male,26,16.143641374161867,,"['Sea Sponge', 'Hermit Crab', 'Shrimp']",10,Escaping predator silhouette overhead.
+26,32,9.607883262139667,13,u. olhanen.,,False,7.904002829996245,juvenile,?,27,23.11900501342532,,"['Algae', 'Shrimp', 'Coral Fragment']",12,Inspecting discarded crab shell.
+27,22,8.047049433761186,4,u. olhanen.,,False,1.033388339116097,juvenile, ,28,18.28910704259197,,"['Sea Sponge', 'Snail', 'Jellyfish', 'Mussel', 'Hermit Crab']",5,Inspecting discarded crab shell.
+28,36,8.155447881121136,2,A. Farensis,,False,2.650682876448779,adult,male or female,29,17.06084058197573,,"['Shrimp', 'Small Fish', 'Sea Star', 'Polychaete Worm', 'Coral Fragment']",10,Emerging cautiously from hiding.
+29,8,7.678418493242749,7,U. olhanensis,,False,46.89415258397465,juvenile, ,30,16.50587080222432,,['Hermit Crab'],7,Defensive posture when approached.
+30,23,5.9022667817721395,3,A. Farensis,,False,4.351229535380798,juvenile,female,31,20.231269285104652,,"['Polychaete Worm', 'Crab (Other Species)']",10,Foraging among seagrass roots.
+31,46,8.08694411797379,5,A. Farensis,,False,8.412521862596817,juvenile, ,32,20.51656404159917,,"['Small Fish', 'Sea Urchin', 'Hermit Crab', 'Crab (Other Species)', 'Coral Fragment']",8,Picking algae from rock surface.
+32,27,8.910936605842409,4,U. olhanensis,,False,45.87493151748323,pre_puberty,male,33,16.41414146564685,,['Sea Anemone'],12,Vibrating antennae in water currents.
+33,40,4.453655123954938,2,u. olhanen.,,False,13.396029689297567,sub_adult,female,34,22.529805303253383,,"['Hermit Crab', 'Shrimp', 'Sea Urchin', 'Sea Anemone']",6,Vibrating antennae in water currents.
+34,43,8.245694623815229,3,u. olhanen.,,False,26.885847804289575,juvenile, ,35,25.17864441194596,,['Polychaete Worm'],6,Retreating quickly from shadow.
+35,13,6.31168458485532,2,A farensis,,False,6.672718701209774,juvenile,female,36,14.571047669137084,,"['Sea Anemone', 'Small Fish', 'Crab (Other Species)']",10,Feeding on small mollusks.
+36,30,9.038099666933906,8,A. Farensis,,True,2.217156022959189,adult,male,37,19.706457158796802,,"['Barnacle', 'Algae']",8,Picking detritus from seabed.
+37,19,5.194039018985546,7,A. Farensis,,False,8.370747789694446,sub_adult,female,38,14.966845806417496,,['Mussel'],10,Swimming short distance to escape.
+38,40,6.3423287000914295,3,A. Farensis,,False,42.524768195850434,adult,nan,39,22.36549705121661,,"['Crab (Other Species)', 'Coral Fragment', 'Barnacle', 'Sea Star', 'Sea Sponge']",8,Social contact with other crabs.
+39,21,4.923575752045451,6,u. olhanen.,,False,3.252019064374786,sub_adult,female,40,16.193063963685987,,['Crab (Other Species)'],9,Claw snapping in competition.
+40,27,8.949266873082394,2,U. olhanensis,,False,1.463708791078462,adult,female,41,16.11930353291445,,"['Algae', 'Polychaete Worm']",7,Moving in groups.
+41,16,6.407354340299485,2,A. Farensis,,False,15.686025238443865,pre_puberty,male,42,16.02215296608329,,"['Sea Urchin', 'Mussel', 'Sea Anemone', 'Polychaete Worm']",8,Picking biofilm on submerged wood.
+42,36,6.185802133403733,8,u. olhanen.,,False,2.196924623263433,pre_puberty,male,43,20.523097380185316,,"['Algae', 'Snail']",5,Claw waving directed at nearby crab.
+43,24,8.843673633629193,4,A farensis,,False,150.0,pre_puberty,nan,44,16.208565075408668,,"['Algae', 'Hermit Crab', 'Barnacle', 'Mussel', 'Sea Anemone']",5,Interaction with hermit crabs.
+44,34,7.018302812170387,5,A farensis,,False,2.125506122420326,sub_adult,male,45,20.34109764225068,,"['Crab (Other Species)', 'Barnacle']",9,Inspecting discarded crab shell.
+45,19,6.430206206511116,2,A farensis,,True,1.5339026447998287,adult,male,46,21.114673839922574,,"['Barnacle', 'Snail']",9,Moving toward warmer water pockets.
+46,48,6.824286422251729,3,u. olhanen.,,False,2.84526904241205,juvenile,male,47,23.000956521410085,,"['Polychaete Worm', 'Hermit Crab', 'Small Fish']",6,Scavenging near tidal pools.
+47,48,8.206297603486817,2,A farensis,,False,2.7530316159630317,pre_puberty,female,48,23.46737026175553,,"['Coral Fragment', 'Sea Anemone', 'Sea Sponge']",4,Rapid claw movement while feeding.
+48,24,9.424585258906026,9,u. olhanen.,,True,33.35618744514982,adult, ,49,18.197588849477135,,"['Shrimp', 'Crab (Other Species)']",10,Cleaning claws with rubbing motion.
+49,21,7.20950028524705,6,u. olhanen.,,False,1.6606459580164235,juvenile,male,50,19.07145310064675,,"['Mussel', 'Polychaete Worm', 'Hermit Crab', 'Sea Sponge', 'Barnacle']",10,Feeding on small crustaceans.
+50,33,8.470772263547092,7,U. olhanensis,,False,36.37445841697145,pre_puberty,?,51,19.629692378279266,,"['Crab (Other Species)', 'Algae', 'Sea Urchin', 'Snail']",6,Picking algae from rock surface.
+51,38,7.61973932289873,9,u. olhanen.,,False,2.128198017982178,pre_puberty,female,52,19.754110371023177,,"['Snail', 'Shrimp', 'Sea Sponge', 'Algae']",11,Stillness in cold water.
+52,21,9.05477877747803,5,U. olhanensis,,False,141.61191091295635,juvenile,female,53,17.78795946507061,,"['Hermit Crab', 'Sea Anemone', 'Snail', 'Sea Urchin', 'Small Fish']",9,Emerging cautiously from hiding.
+53,36,5.4390586160783405,3,U. olhanensis,,False,4.428381880039684,juvenile,female,54,22.19980529077531,,"['Small Fish', 'Sea Sponge', 'Sea Urchin', 'Algae']",11,Interacting with small fish nearby.
+54,26,6.92473248756412,5,U. olhanensis,,True,-999.0,sub_adult,male,55,17.93111327005632,,"['Sea Urchin', 'Sea Anemone']",6,Searching for mates at twilight.
+55,16,10.548906413145279,5,A. Farensis,,False,109.15357845737996,juvenile,male,56,17.10320012778863,,"['Small Fish', 'Sea Star', 'Barnacle']",12,Hiding beneath rocks.
+56,42,6.901015678348781,3,A. Farensis,,True,0.4320416452313296,sub_adult,female,57,20.757923655361417,,['Sea Sponge'],7,Rapid claw movement while feeding.
+57,25,6.892757722422788,3,u. olhanen.,,True,3.146410490995739,juvenile,female,58,17.089598914523318,,['Sea Sponge'],7,Using claws to dig into sediment.
+58,31,9.280839899968225,4,A. Farensis,,False,19.318634303771912,adult, ,59,18.288493224726494,,"['Sea Urchin', 'Shrimp', 'Small Fish', 'Hermit Crab', 'Crab (Other Species)']",10,Claw snapping in competition.
+59,30,8.754807489292867,7,u. olhanen.,,False,3.682830896446433,sub_adult,?,60,20.676500517135885,,"['Polychaete Worm', 'Jellyfish', 'Sea Urchin']",9,Claw waving directed at nearby crab.
+60,15,9.267546414920503,8,U. olhanensis,,False,10.345986755683791,pre_puberty,female,61,16.614131138254336,,"['Jellyfish', 'Sea Star', 'Snail', 'Polychaete Worm', 'Barnacle']",9,Claw waving directed at nearby crab.
+61,48,8.62486093753855,6,U. olhanensis,,False,3.834360579803182,adult,male,62,20.82095701130634,,"['Mussel', 'Sea Anemone', 'Sea Sponge']",15,Sideways walking along bay edge.
+62,38,9.412339414450829,5,U. olhanensis,,True,0.5112807717834301,adult,male,63,17.039685599311,,"['Coral Fragment', 'Algae', 'Hermit Crab', 'Polychaete Worm', 'Small Fish']",7,Sitting still blending with environment.
+63,26,7.519122418163744,3,U. olhanensis,,False,8.515919881905905,sub_adult,male,64,19.712970626229435,,['Sea Urchin'],5,Feeding on detritus in shallow water.
+64,21,6.449281034952551,2,u. olhanen.,,False,1.5147682857890707,pre_puberty,male,65,21.195006121189664,,"['Snail', 'Small Fish']",7,Scavenging near tidal pools.
+65,34,6.770426545852602,7,A. Farensis,,False,20.015636697071432,sub_adult,male,66,21.135127586095855,,['Sea Star'],14,Shaking claws after contact.
+66,24,7.886314995540285,6,u. olhanen.,,True,6.760002978523687,pre_puberty,male,67,17.271669416623546,,['Mussel'],7,Climbing barnacle-covered surfaces.
+67,41,7.76671460724319,3,A farensis,,False,5.648271183515943,pre_puberty,male,68,20.97358587189848,,"['Hermit Crab', 'Small Fish', 'Shrimp', 'Sea Urchin', 'Crab (Other Species)']",7,Scavenging near tidal pools.
+68,23,7.027205647394033,7,U. olhanensis,,False,2.5500497132543303,juvenile,?,69,18.871098384651123,,"['Small Fish', 'Mussel']",6,Moving toward bait.
+69,18,7.605671674685146,4,u. olhanen.,,True,15.077940587789119,sub_adult,male,70,13.505850907763781,,"['Barnacle', 'Mussel', 'Crab (Other Species)']",6,Feeding on small mollusks.
+70,31,9.758185576787687,7,U. olhanensis,,False,13.500224423916158,juvenile,male,71,18.785168749562583,,"['Hermit Crab', 'Small Fish']",9,Picking detritus from seabed.
+71,17,7.026780041649226,3,A. Farensis,,False,1.826683394071073,pre_puberty,female,72,18.447823472746734,,"['Crab (Other Species)', 'Coral Fragment']",7,Cleaning claws with rubbing motion.
+72,42,6.132771280217815,6,A farensis,,False,6.027847544386594,pre_puberty,female,73,24.85576201378568,,"['Small Fish', 'Barnacle', 'Mussel', 'Hermit Crab', 'Algae']",12,Escaping from aggressive fish.
+73,60,8.59677638754053,3,A. Farensis,,False,3.164237961340219,juvenile,male,74,26.88700397702616,,['Barnacle'],10,Moving sideways along sandy bottom.
+74,17,7.041461754227268,7,u. olhanen.,,True,16.754938520595992,sub_adult,female,75,17.389969532781024,,['Mussel'],7,Color changes during molting.
+75,40,8.005618170493205,4,u. olhanen.,,False,0.6044016172559842,sub_adult,male,76,21.911479949165475,,"['Mussel', 'Barnacle', 'Sea Sponge', 'Crab (Other Species)', 'Sea Star']",10,Climbing seaweed stalks.
+76,10,6.977385180534255,2,A. Farensis,,True,0.8444686021097666,adult,male,77,13.501220967821759,,"['Mussel', 'Coral Fragment', 'Shrimp', 'Polychaete Worm', 'Small Fish']",5,Shaking claws after contact.
+77,38,7.937731507093804,5,A. Farensis,,False,2.0753534200334913,sub_adult,nan,78,24.228929684754537,,"['Sea Sponge', 'Polychaete Worm', 'Sea Anemone', 'Sea Urchin', 'Snail']",6,Shaking claws after contact.
+78,39,8.499000678368322,2,u. olhanen.,,False,2.888893031556617,sub_adult,male,79,19.4622671907013,,"['Polychaete Worm', 'Hermit Crab', 'Coral Fragment', 'Sea Urchin', 'Small Fish']",10,Claw snapping at diver.
+79,41,7.46305186936473,8,A. Farensis,,True,2.7138075254227174,sub_adult,male,80,18.94149832393708,,"['Crab (Other Species)', 'Sea Star', 'Snail', 'Jellyfish']",10,Stillness in cold water.
+80,14,8.133752597630934,2,A farensis,,True,4.444119063463682,juvenile,male,81,15.663149178369421,,"['Sea Star', 'Sea Sponge', 'Jellyfish', 'Hermit Crab', 'Mussel']",10,Hiding in sandy burrow.
+81,31,7.102652311202474,4,u. olhanen.,,False,34.785290255788674,juvenile,male,82,18.943208440680834,,"['Sea Star', 'Algae', 'Polychaete Worm']",7,Picking detritus from seabed.
+82,37,8.045775444979565,5,A. Farensis,,False,7.648016534211154,adult,female,83,21.07151455152188,,['Jellyfish'],9,Moving toward bait.
+83,32,10.133071355200732,5,A. Farensis,,False,3.00296705493393,sub_adult,male,84,18.776265352897592,,"['Polychaete Worm', 'Jellyfish', 'Hermit Crab', 'Algae']",5,Dragging shell fragment backward.
+84,48,6.184986706481018,4,A. Farensis,,False,11.992980858061822,sub_adult,male,85,24.39876637966292,,"['Snail', 'Coral Fragment', 'Sea Star', 'Small Fish']",10,Swimming short distance to escape.
+85,47,9.435433619214681,3,U. olhanensis,,False,5.472822745121241,sub_adult,male,86,24.749209361694376,,"['Small Fish', 'Snail', 'Sea Star', 'Crab (Other Species)']",10,Moving in groups.
+86,37,6.002550759522443,2,A. Farensis,,False,19.579679037328113,pre_puberty,female,87,19.723949892292516,,['Sea Anemone'],10,Picking biofilm on submerged wood.
+87,24,5.63987233300826,7,A. Farensis,,False,5.510280393810422,sub_adult,male,88,18.394448050478978,,"['Sea Sponge', 'Algae']",10,Claw snapping in competition.
+88,26,6.3141575316973055,4,U. olhanensis,,False,7.722834107757685,sub_adult, ,89,18.020170674713885,,"['Mussel', 'Sea Star']",4,Claw waving directed at nearby crab.
+89,16,6.668532889249683,4,A farensis,,False,3.4057931490302287,sub_adult, ,90,19.41581940032666,,"['Coral Fragment', 'Barnacle']",5,Resting in shaded rock crevice.
+90,33,9.65326637218965,2,U. olhanensis,,False,24.150338279431356,adult, ,91,22.47362899862803,,['Sea Anemone'],10,Retreating quickly from shadow.
+91,18,9.476512936171456,2,A farensis,,False,2.028488866931247,pre_puberty,male,92,14.332505956526287,,"['Shrimp', 'Barnacle', 'Algae', 'Sea Anemone']",6,Social contact with other crabs.
+92,43,9.914083243850087,2,U. olhanensis,,True,4.304177409302375,sub_adult,male,93,22.969350006568412,,['Sea Anemone'],5,Mating behavior with antenna touching.
+93,21,8.458293546929136,3,A farensis,,False,3.8599475599811655,pre_puberty,male,94,17.188512611201954,,"['Small Fish', 'Sea Anemone']",7,Feeding on detritus in shallow water.
+94,31,6.524673779252385,11,A farensis,,False,1.1128368820961736,pre_puberty,male or female,95,18.42925821009392,,"['Sea Sponge', 'Hermit Crab', 'Sea Star', 'Sea Urchin', 'Polychaete Worm']",10,Foraging among seagrass roots.
+95,26,6.576434956273896,3,U. olhanensis,,True,27.69981282963328,pre_puberty,male,96,20.20580461372316,,"['Algae', 'Shrimp', 'Sea Urchin', 'Hermit Crab']",7,Claw snapping in competition.
+96,54,8.358039077654233,9,A farensis,,True,4.333728634232123,juvenile,female,97,24.632513670309578,,"['Barnacle', 'Sea Anemone', 'Mussel', 'Polychaete Worm', 'Algae']",9,Defensive posture when approached.
+97,10,6.820828896352525,3,u. olhanen.,,False,13.805368291128804,adult,male,98,15.867353465515645,,"['Jellyfish', 'Sea Sponge', 'Polychaete Worm', 'Sea Anemone']",9,Social contact with other crabs.
+98,33,8.8928604018602,2,u. olhanen.,,False,1.7223666915879812,sub_adult,male,99,18.486481704593093,,"['Hermit Crab', 'Small Fish', 'Coral Fragment', 'Barnacle', 'Shrimp']",6,Social contact with other crabs.
+99,32,8.60239480930751,9,A. Farensis,,False,57.799694387146424,juvenile,male,100,18.761435926053757,,"['Shrimp', 'Sea Urchin', 'Sea Star']",10,Vibrating antennae in water currents.
+100,24,6.522172559266855,5,A. Farensis,,False,2.180992979672898,sub_adult,female,101,16.418945384976915,,"['Shrimp', 'Crab (Other Species)', 'Jellyfish', 'Barnacle']",7,Inspecting discarded crab shell.
+101,13,6.628191016757123,3,A farensis,,False,22.726430424730342,juvenile,N/R,102,16.57779801036534,,"['Jellyfish', 'Snail']",4,Interaction with hermit crabs.
+102,54,6.014244476465711,4,A. Farensis,,False,0.7212573261200429,juvenile,male,103,25.438244070892587,,"['Hermit Crab', 'Sea Star']",8,Defensive posture when approached.
+103,11,6.928156596866666,9,A farensis,,False,0.3255690454542966,juvenile,male,104,16.959686056617535,,"['Small Fish', 'Mussel', 'Shrimp']",8,Picking biofilm on submerged wood.
+104,20,8.977891630895588,6,u. olhanen.,,False,0.9033255602576952,sub_adult,female,105,15.292046095677689,,"['Sea Urchin', 'Coral Fragment', 'Small Fish']",4,Moving in groups.
+105,34,9.115891110558742,4,U. olhanensis,,False,3.30553344555579,sub_adult,male,106,18.003564792219347,,"['Jellyfish', 'Sea Sponge']",8,Hiding under seagrass blades.
+106,30,10.97232093292039,5,A. Farensis,,False,5.646441336740679,sub_adult,male,107,19.371417262147276,,"['Algae', 'Sea Urchin', 'Small Fish']",10,Searching for mates at twilight.
+107,34,5.170218348416283,10,A. Farensis,,False,7.630610346218493,pre_puberty,female,108,19.980437266998752,,"['Shrimp', 'Sea Sponge', 'Barnacle']",8,Climbing barnacle-covered surfaces.
+108,35,4.395860311900837,5,A. Farensis,,False,38.659340002792696,adult,male,109,17.998993404171184,,"['Snail', 'Jellyfish', 'Sea Star', 'Polychaete Worm', 'Hermit Crab']",6,Waving claws rhythmically.
+109,29,7.23287923476996,8,A. Farensis,,False,4.150442530443266,adult,male or female,110,17.948270989232167,,"['Small Fish', 'Sea Anemone']",10,Climbing algae-covered rocks.
+110,34,7.810022828634326,3,U. olhanensis,,False,15.419951103941404,pre_puberty,female,111,19.6740747716398,,"['Barnacle', 'Polychaete Worm', 'Sea Star', 'Algae', 'Sea Urchin']",9,Burrowing into sandy sediment.
+111,19,7.6757866330013735,3,A farensis,,True,3.530275638079831,sub_adult,male,112,17.08988817619391,,"['Mussel', 'Sea Sponge']",9,Climbing barnacle-covered surfaces.
+112,10,6.934463301800903,2,A farensis,,False,2.0002705387244233,pre_puberty,female,113,12.568849067145841,,['Sea Sponge'],10,Waving claws rhythmically.
+113,24,6.416493672916109,2,A. Farensis,,False,15.72164347090052,pre_puberty,?,114,19.10255848907611,,"['Barnacle', 'Polychaete Worm', 'Jellyfish']",10,Cleaning claws with rubbing motion.
+114,13,8.288298868141718,8,A farensis,,True,21.388667970082814,pre_puberty,male,115,13.806685750851848,,"['Jellyfish', 'Coral Fragment', 'Crab (Other Species)', 'Barnacle', 'Sea Star']",8,Feeding on small mollusks.
+115,12,8.892870176547559,5,A. Farensis,,False,3.799659984778221,juvenile,female,116,17.02517357099642,,"['Coral Fragment', 'Barnacle', 'Snail', 'Jellyfish']",10,Resting in shaded rock crevice.
+116,22,8.511459722951855,5,u. olhanen.,,True,105.94941740921635,pre_puberty,male,117,17.15733343932416,,"['Algae', 'Sea Sponge', 'Shrimp']",12,Cleaning claws with rubbing motion.
+117,9,8.93646035903485,3,u. olhanen.,,False,3.7047271138565057,sub_adult,male,118,12.623043663865396,,['Sea Star'],8,Escaping predator silhouette overhead.
+118,11,6.904212052860199,8,A. Farensis,,False,11.453874204804798,adult,female,119,14.179518334363339,,"['Polychaete Worm', 'Algae', 'Sea Star']",9,Pausing frequently during exploration.
+119,19,7.936442179470028,5,U. olhanensis,,False,28.661790199705273,sub_adult,female,120,14.315058846101335,,"['Coral Fragment', 'Sea Urchin', 'Jellyfish', 'Sea Sponge']",9,Rapid claw movement while feeding.
+120,20,8.103056520936104,10,A farensis,,False,80.70626297407333,sub_adult,nan,121,17.48176884350552,,"['Sea Anemone', 'Snail', 'Hermit Crab', 'Sea Sponge', 'Sea Urchin']",8,Claw snapping in competition.
+121,12,7.973998814149106,4,u. olhanen.,,False,4.834204863857267,sub_adult,?,122,15.440201241481224,,"['Crab (Other Species)', 'Mussel', 'Barnacle', 'Coral Fragment', 'Sea Urchin']",6,Climbing barnacle-covered surfaces.
+122,13,6.508611250535749,7,A farensis,,False,16.771960839744004,adult,N/R,123,12.595701576604373,,"['Snail', 'Coral Fragment', 'Sea Anemone', 'Algae', 'Sea Sponge']",11,Exploring new territory.
+123,10,7.152336636142592,5,U. olhanensis,,False,1.0482726358837553,pre_puberty,male or female,124,15.334314171710234,,"['Sea Star', 'Sea Anemone', 'Small Fish', 'Sea Sponge']",7,Displaying dominance by lifting body.
+124,25,6.82062073534491,3,u. olhanen.,,False,48.25927197820974,sub_adult,male or female,125,19.073235409353444,,['Barnacle'],10,Sideways walking along bay edge.
+125,30,5.742692078123097,3,u. olhanen.,,False,14.135006329038255,juvenile,?,126,17.006126721986575,,"['Crab (Other Species)', 'Snail', 'Coral Fragment', 'Barnacle']",9,Defensive posture when approached.
+126,39,5.372584222018531,3,A. Farensis,,False,128.52925624982885,juvenile,female,127,22.4520626117416,,"['Sea Anemone', 'Barnacle', 'Coral Fragment', 'Jellyfish']",11,Emerging cautiously from hiding.
+127,53,7.506715410972003,3,A. Farensis,,False,8.134195637488347,sub_adult,female,128,22.941559020121694,,"['Snail', 'Coral Fragment']",13,Claw waving directed at nearby crab.
+128,35,8.125980484863666,4,U. olhanensis,,False,9.476124602476578,pre_puberty, ,129,18.881497112391028,,"['Mussel', 'Barnacle', 'Sea Sponge']",12,Sitting still blending with environment.
+129,34,10.309044825826,10,A farensis,,False,2.025780678034599,sub_adult,male,130,22.490802206594072,,"['Jellyfish', 'Hermit Crab', 'Algae', 'Sea Urchin']",6,Resting under shell fragment.
+130,59,7.075260074853377,7,A farensis,,False,0.22875087003029695,pre_puberty,male,131,22.3870898261986,,"['Sea Anemone', 'Sea Star', 'Crab (Other Species)']",6,Exchanging antenna taps.
+131,42,11.97783741558603,4,u. olhanen.,,False,12.33820679887778,pre_puberty,male,132,21.692609237399253,,"['Small Fish', 'Crab (Other Species)', 'Algae']",9,Feeding on small crustaceans.
+132,18,9.403022011001914,3,U. olhanensis,,True,0.9631718128371346,adult,male,133,17.107911358017297,,"['Polychaete Worm', 'Mussel']",7,Feeding on detritus in shallow water.
+133,22,7.6456874702152735,3,A farensis,,False,26.96955217438972,pre_puberty, ,134,15.327107149844995,,"['Mussel', 'Jellyfish', 'Algae', 'Crab (Other Species)', 'Barnacle']",14,Sideways walking along bay edge.
+134,17,9.437153355257374,13,A. Farensis,,False,11.113416712608013,sub_adult,male,135,17.079495380461903,,"['Sea Anemone', 'Coral Fragment', 'Barnacle']",7,Climbing submerged rocks.
+135,32,8.000456251980976,6,A farensis,,False,0.6939426548216009,pre_puberty,male,136,18.29956204023273,,['Sea Star'],7,Cleaning claws with rubbing motion.
+136,33,7.902472388448741,2,A farensis,,False,2.0349972055690095,adult,male,137,22.927887978113517,,"['Snail', 'Hermit Crab']",5,Color changes during molting.
+137,28,4.109614432022031,5,u. olhanen.,,False,2.517679081377162,adult, ,138,20.013554105229783,,"['Sea Urchin', 'Sea Star', 'Sea Anemone', 'Mussel']",9,Social contact with other crabs.
+138,43,8.541514149093592,4,u. olhanen.,,False,3.6104760706366164,sub_adult,male,139,21.16521771876589,,['Polychaete Worm'],8,Claw snapping at diver.
+139,27,7.119134738834036,3,A. Farensis,,False,4.3769088238448886,pre_puberty,male,140,21.60742608682923,,"['Mussel', 'Shrimp']",6,Shaking claws after contact.
+140,25,10.168222070008845,3,u. olhanen.,,False,16.16502810163405,pre_puberty,?,141,18.151899411831902,,"['Barnacle', 'Sea Sponge', 'Small Fish', 'Coral Fragment']",8,Guarding eggs under abdominal flap.
+141,29,8.217506845546593,11,A. Farensis,,False,4.46602324346598,adult,female,142,18.95420349455401,,"['Sea Urchin', 'Snail']",8,Searching for food in tidal pools.
+142,33,10.407177718414584,7,U. olhanensis,,False,134.53719435534194,pre_puberty,female,143,20.776820907069677,,['Algae'],7,Burrowing into sandy sediment.
+143,36,8.342201835679425,3,A farensis,,True,0.797638832341999,sub_adult,male,144,21.379395705812072,,['Hermit Crab'],8,Crab moving quickly across rocks.
+144,39,11.862210399917057,4,u. olhanen.,,False,7.543274413083114,sub_adult,male,145,20.36214993699141,,"['Jellyfish', 'Sea Sponge', 'Sea Urchin']",7,Displaying dominance by lifting body.
+145,18,4.759410872820739,4,A farensis,,False,2.81947217935558,sub_adult,male,146,15.854664880438904,,"['Sea Star', 'Sea Urchin', 'Jellyfish', 'Algae', 'Sea Anemone']",11,Mating behavior with antenna touching.
+146,47,7.055043317233789,3,A. Farensis,,False,5.654721240461387,pre_puberty,female,147,23.5749121823648,,"['Polychaete Worm', 'Mussel']",7,Retreating into burrow.
+147,24,5.833594871189554,2,U. olhanensis,,False,149.94066083193465,adult,male,148,18.05937633835564,,"['Snail', 'Polychaete Worm', 'Sea Anemone']",7,Stillness in cold water.
+148,11,7.320027280414234,6,A. Farensis,,False,4.558168203605885,juvenile,female,149,13.319373962903343,,"['Mussel', 'Algae', 'Coral Fragment', 'Small Fish']",7,Waving claws rhythmically.
+149,10,6.388045311949077,4,A farensis,,False,19.902066417642658,pre_puberty,male,150,15.6773430495092,,"['Snail', 'Hermit Crab']",11,Searching for mates at twilight.
+150,27,7.087513395862828,10,A farensis,,False,5.282064284070423,pre_puberty,male,151,17.62820896086713,,"['Barnacle', 'Shrimp', 'Sea Anemone', 'Small Fish']",7,Searching for food in tidal pools.
+151,38,7.4252091690323025,3,u. olhanen.,,False,25.321603624888258,sub_adult,female,152,19.59573442781628,,"['Sea Urchin', 'Barnacle', 'Shrimp', 'Jellyfish']",9,Moving toward warmer water pockets.
+152,17,9.401606712072748,6,A farensis,,False,16.403591706064606,juvenile,male,153,14.354286164733093,,['Crab (Other Species)'],8,Social contact with other crabs.
+153,29,7.588743272382288,6,u. olhanen.,,False,150.0,adult, ,154,19.759561990195763,,['Sea Anemone'],6,Escaping from aggressive fish.
+154,19,8.528830824034804,2,u. olhanen.,,False,12.219606999137708,sub_adult,male,155,17.932761845710854,,"['Sea Star', 'Shrimp', 'Hermit Crab', 'Coral Fragment']",8,Picking detritus from seabed.
+155,12,9.546738419569508,5,A. Farensis,,False,85.57129050045252,juvenile,female,156,13.879944444718198,,"['Sea Anemone', 'Barnacle', 'Jellyfish', 'Coral Fragment', 'Polychaete Worm']",7,Dragging shell fragment backward.
+156,63,6.7662982484293925,4,U. olhanensis,,False,17.75252054372506,sub_adult,nan,157,24.151507714303104,,"['Algae', 'Hermit Crab', 'Sea Anemone', 'Polychaete Worm', 'Sea Urchin']",7,Rapid crossing of open sand.
+157,15,9.617855739724032,5,A. Farensis,,False,14.973527371598855,pre_puberty,male,158,16.03812372938541,,"['Mussel', 'Polychaete Worm']",11,Pausing frequently during exploration.
+158,21,5.668631389054146,12,A. Farensis,,False,2.793282518649315,sub_adult,male,159,17.03425769541687,,"['Hermit Crab', 'Sea Urchin']",8,Waving claws rhythmically.
+159,37,7.946001563084698,4,U. olhanensis,,False,1.0179607386343166,sub_adult,male,160,19.890972565859542,,"['Mussel', 'Sea Anemone', 'Barnacle']",8,Hiding under floating debris.
+160,13,8.795635289984233,5,A farensis,,False,1.8422500797855503,sub_adult,male,161,15.618877545721087,,['Mussel'],13,Rapid claw movement while feeding.
+161,18,7.842244186366682,4,A farensis,,False,20.639142938948215,pre_puberty,nan,162,16.865680136160258,,"['Sea Star', 'Small Fish']",11,Hiding under floating debris.
+162,24,8.865889451411803,3,u. olhanen.,,False,10.66921183590347,pre_puberty,male,163,16.161395987080827,,['Shrimp'],13,Burrowing into sandy sediment.
+163,15,6.250703045491608,2,A farensis,,False,0.7559088715739424,adult,male,164,16.48704503420963,,"['Barnacle', 'Snail', 'Mussel']",9,Escaping from aggressive fish.
+164,38,9.318112100641383,3,U. olhanensis,,False,30.31463667156369,juvenile, ,165,19.800304673660193,,"['Mussel', 'Snail']",7,Pausing frequently during exploration.
+165,8,6.769869713668646,4,u. olhanen.,,False,9.609888360850498,sub_adult,male,166,14.799645758006776,,"['Sea Star', 'Sea Urchin', 'Polychaete Worm', 'Snail']",7,Guarding a small hole in sediment.
+166,18,6.547514809663712,4,U. olhanensis,,False,2.4242190675402004,pre_puberty,male,167,17.590543072284877,,"['Sea Sponge', 'Algae', 'Sea Anemone']",11,Moving sideways along sandy bottom.
+167,28,8.531257128238474,7,A. Farensis,,False,48.50308650166269,adult,male or female,168,18.99015453478982,,"['Sea Anemone', 'Sea Urchin', 'Algae']",5,Inspecting discarded crab shell.
+168,17,8.507229210097826,3,A farensis,,False,16.888980563043443,adult,male,169,15.57447008718815,,['Sea Urchin'],8,Claw snapping in competition.
+169,23,7.346280021962068,10,u. olhanen.,,False,2.0149526398058466,juvenile,male,170,19.349750493834566,,['Sea Sponge'],7,Guarding eggs under abdominal flap.
+170,19,8.102381577112604,5,u. olhanen.,,False,14.516711954177149,sub_adult,male,171,16.424588883099993,,"['Shrimp', 'Jellyfish', 'Sea Anemone']",9,Moving in groups.
+171,31,8.5739681932505,2,A. Farensis,,False,1.1918181078481733,adult,male,172,23.24809836381239,,"['Crab (Other Species)', 'Snail', 'Small Fish', 'Jellyfish']",7,Hiding under floating debris.
+172,42,9.657663723287012,4,A farensis,,False,13.394748050267786,sub_adult,male,173,21.561079222711374,,"['Polychaete Worm', 'Snail', 'Algae', 'Mussel', 'Jellyfish']",5,Climbing barnacle-covered surfaces.
+173,16,7.545642311572183,4,A. Farensis,,True,0.5316796566735557,adult,male or female,174,16.307892215068712,,"['Snail', 'Jellyfish']",7,Claw snapping at diver.
+174,56,9.556391424652572,4,u. olhanen.,,False,12.692809630581948,sub_adult,male,175,24.13531212783884,,"['Sea Urchin', 'Sea Anemone']",12,Rapid claw movement while feeding.
+175,59,8.048474831562691,2,A. Farensis,,False,150.0,pre_puberty,male,176,26.275959472693174,,"['Sea Star', 'Algae', 'Barnacle']",9,Feeding on detritus in shallow water.
+176,43,8.62985176322649,8,u. olhanen.,,False,47.95430032559588,juvenile,male,177,23.462579554307293,,['Mussel'],11,Picking algae from rock surface.
+177,30,9.197212549455728,5,u. olhanen.,,False,8.02084472931027,sub_adult,male,178,20.699055928574058,,"['Sea Star', 'Coral Fragment', 'Snail', 'Mussel']",11,Foraging among seagrass roots.
+178,40,7.470303954136368,4,u. olhanen.,,False,72.45305010574198,pre_puberty,male,179,19.9547895785201,,"['Hermit Crab', 'Crab (Other Species)', 'Coral Fragment']",8,Feeding on small mollusks.
+179,22,7.693397119314835,7,U. olhanensis,,False,150.0,pre_puberty,male,180,17.517735575459007,,['Jellyfish'],8,Vibrating antennae in water currents.
+180,11,6.312870169084372,5,A. Farensis,,False,3.09782537324519,sub_adult,male,181,17.09215939310644,,['Jellyfish'],8,Scavenging near tidal pools.
+181,44,7.008622800677563,4,U. olhanensis,,True,3.2361237624510455,pre_puberty,male,182,22.447780660344634,,"['Small Fish', 'Barnacle']",10,Hiding in sandy burrow.
+182,15,7.613558150640952,6,U. olhanensis,,False,2.718543392738421,juvenile,male,183,15.462220483493896,,"['Snail', 'Hermit Crab', 'Coral Fragment', 'Algae']",7,Interacting with small fish nearby.
+183,28,5.989347404211298,7,A. Farensis,,False,-999.0,juvenile,male,184,19.206740396088872,,['Sea Sponge'],9,Feeding on small mollusks.
+184,14,9.79987682096986,4,U. olhanensis,,False,1.1147996997057668,pre_puberty,?,185,15.986474248510241,,"['Shrimp', 'Polychaete Worm', 'Mussel', 'Jellyfish']",10,Shaking claws after contact.
+185,22,6.851403975938367,5,A. Farensis,,True,3.691964487590268,pre_puberty,female,186,18.097613694308002,,"['Sea Sponge', 'Small Fish']",12,Cleaning claws with rubbing motion.
+186,20,10.963223396908763,6,A. Farensis,,True,39.620883520459216,pre_puberty,male,187,18.51675184831355,,"['Jellyfish', 'Sea Star', 'Barnacle', 'Sea Urchin']",12,Vibrating antennae in water currents.
+187,32,7.547699338720629,4,U. olhanensis,,False,27.31577587453703,adult,nan,188,19.43670913552731,,"['Sea Urchin', 'Algae', 'Jellyfish']",9,Claw snapping at diver.
+188,25,10.197005998630159,2,A. Farensis,,False,8.220724363187419,sub_adult,male or female,189,19.837520011026772,,"['Crab (Other Species)', 'Coral Fragment', 'Algae']",6,Feeding on small mollusks.
+189,19,6.305537976902822,2,A farensis,,False,1.1221750421498211,pre_puberty,male,190,15.473340370658658,,"['Sea Urchin', 'Algae']",12,Cleaning claws with rubbing motion.
+190,11,9.36062948397315,2,U. olhanensis,,True,150.0,sub_adult,male,191,16.763743691325732,,"['Polychaete Worm', 'Coral Fragment']",9,Struggling with entangled seaweed.
+191,41,6.862707712767558,2,A farensis,,False,2.818468337591375,sub_adult, ,192,23.061067602517742,,['Algae'],7,Escaping from aggressive fish.
+192,10,7.149055899651366,2,A farensis,,False,185.78824157793818,adult,male,193,15.840012199082427,,"['Sea Star', 'Shrimp', 'Coral Fragment', 'Barnacle']",10,Resting under shell fragment.
+193,18,10.174073268589837,7,u. olhanen.,,False,7.228790772514076,sub_adult,male,194,13.631239758809652,,"['Small Fish', 'Sea Anemone', 'Polychaete Worm']",7,Feeding on detritus in shallow water.
+194,10,6.965329968040482,5,u. olhanen.,,False,4.1944481932247495,pre_puberty,male,195,16.883731104152005,,"['Crab (Other Species)', 'Barnacle', 'Coral Fragment', 'Sea Anemone']",7,Escaping from aggressive fish.
+195,11,7.842005183974251,3,u. olhanen.,,False,13.232906481180219,pre_puberty,male,196,15.963301495364767,,"['Sea Sponge', 'Small Fish', 'Coral Fragment', 'Mussel']",6,Moving sideways along sandy bottom.
+196,40,4.96806600593929,3,A farensis,,False,16.311809831641607,pre_puberty,male,197,23.15881819625372,,['Shrimp'],6,Using claws to dig into sediment.
+197,51,5.166246687661662,5,U. olhanensis,,False,4.497676165423925,sub_adult,female,198,24.538377544975965,,['Sea Anemone'],6,Social contact with other crabs.
+198,29,7.909288334647754,5,A. Farensis,,False,56.08350253582667,pre_puberty,male,199,18.714436581067453,,"['Mussel', 'Snail', 'Shrimp']",6,Dragging shell fragment backward.
+199,11,8.60702118253937,4,u. olhanen.,,False,18.45314370671534,adult,male,200,19.09459882951799,,"['Barnacle', 'Sea Star']",9,Escaping predator silhouette overhead.
+200,19,6.349090095557408,2,A farensis,,False,44.56044116385521,pre_puberty,male or female,201,20.143319902518893,,['Crab (Other Species)'],8,Territorial display against intruder.
+201,22,8.425836867294475,6,A. Farensis,,False,11.318001845564218,juvenile,female,202,18.042945440531653,,"['Small Fish', 'Crab (Other Species)', 'Snail', 'Hermit Crab', 'Mussel']",7,Cleaning claws with rubbing motion.
+202,26,5.883981583617745,2,u. olhanen.,,False,17.803829231002894,pre_puberty,nan,203,18.577388473703316,,"['Sea Star', 'Snail', 'Mussel']",7,Searching for food in tidal pools.
+203,26,6.62080495500469,2,A farensis,,False,12.806305855412914,sub_adult,male,204,17.167449754447638,,"['Shrimp', 'Snail', 'Polychaete Worm', 'Mussel', 'Crab (Other Species)']",11,Exploring new territory.
+204,14,6.809114933939547,4,u. olhanen.,,True,2.890004712539366,sub_adult,?,205,19.368243123496587,,['Algae'],10,Feeding on algae scraped from rocks.
+205,46,8.404982981665334,5,A farensis,,False,48.254764282833015,adult, ,206,20.016456281186578,,"['Sea Anemone', 'Polychaete Worm', 'Snail', 'Crab (Other Species)']",7,Sitting still blending with environment.
+206,44,6.998164761426319,8,U. olhanensis,,False,8.126030287469346,pre_puberty,male,207,24.513829167214404,,"['Algae', 'Shrimp', 'Jellyfish', 'Snail', 'Polychaete Worm']",8,Social contact with other crabs.
+207,18,8.327047826528698,5,U. olhanensis,,True,11.889790460171394,juvenile,male,208,15.025384699054513,,"['Barnacle', 'Crab (Other Species)']",2,Cleaning claws with rubbing motion.
+208,37,7.959246081731963,2,U. olhanensis,,False,2.1436637222829353,juvenile,nan,209,22.386869286549647,,"['Snail', 'Barnacle', 'Hermit Crab', 'Sea Sponge']",9,Resting in shaded rock crevice.
+209,42,11.105789445104012,6,A farensis,,False,0.4842345152336354,pre_puberty,female,210,20.221156008179836,,"['Algae', 'Coral Fragment', 'Sea Sponge']",10,Territorial display against intruder.
+210,32,5.852755059743206,8,U. olhanensis,,False,7.855960958823158,adult,male or female,211,16.706616006296606,,"['Snail', 'Small Fish', 'Sea Star', 'Coral Fragment', 'Sea Urchin']",8,Feeding on small mollusks.
+211,26,7.78392775731251,4,A. Farensis,,False,16.359776491347358,adult,male or female,212,19.176999503883614,,"['Shrimp', 'Barnacle', 'Algae', 'Sea Anemone']",9,Color changes during molting.
+212,35,10.121209493193357,5,A farensis,,False,21.96659638633438,juvenile,female,213,21.610219237914688,,"['Small Fish', 'Sea Sponge', 'Shrimp', 'Sea Star', 'Barnacle']",9,Struggling with entangled seaweed.
+213,21,7.94962845550413,3,A farensis,,True,9.600422141709256,pre_puberty,female,214,20.512207037744812,,"['Small Fish', 'Coral Fragment', 'Sea Star', 'Hermit Crab']",11,Searching for food in tidal pools.
+214,38,7.732431608351488,3,A farensis,,True,11.99391596820389,sub_adult,nan,215,25.29688890958017,,['Hermit Crab'],11,Mating behavior with antenna touching.
+215,27,7.06195942311491,6,u. olhanen.,,True,4.527434132683576,adult,male,216,16.881355102453718,,"['Sea Anemone', 'Sea Star', 'Mussel']",9,Mating behavior with antenna touching.
+216,21,7.947595725755088,2,A farensis,,False,2.608330001691968,adult,male,217,18.33544692625069,,"['Algae', 'Sea Sponge', 'Coral Fragment']",7,Rapid crossing of open sand.
+217,13,8.504646958549925,3,A farensis,,False,1.1514152986366029,sub_adult,female,218,16.943645447484172,,"['Sea Star', 'Sea Urchin', 'Sea Sponge']",7,Stillness in cold water.
+218,20,6.866550018530883,7,A farensis,,True,28.942890668470035,pre_puberty,female,219,18.52560711097597,,['Shrimp'],9,Climbing onto submerged logs.
+219,14,6.298992169237056,4,A. Farensis,,False,7.398654076254988,adult,male,220,16.997497183962903,,['Hermit Crab'],9,Displaying dominance by lifting body.
+220,32,6.430963891976604,8,u. olhanen.,,False,5.268811573206961,adult,male,221,22.82068930510307,,"['Algae', 'Jellyfish', 'Barnacle']",9,Searching for food in tidal pools.
+221,13,6.520315063404539,2,A farensis,,False,17.390360512702294,adult,male,222,10.175102139614935,,"['Sea Sponge', 'Mussel', 'Barnacle', 'Algae', 'Shrimp']",6,Pausing frequently during exploration.
+222,16,8.593539759437958,10,A. Farensis,,False,6.837203176062543,sub_adult,-,223,17.008366808043643,,"['Small Fish', 'Sea Anemone', 'Jellyfish', 'Barnacle']",11,Crab moving quickly across rocks.
+223,47,9.526414422311552,6,u. olhanen.,,False,4.040316130199208,juvenile, ,224,21.205911687103416,,"['Small Fish', 'Sea Star', 'Sea Urchin', 'Coral Fragment', 'Barnacle']",8,Color changes during molting.
+224,23,8.800258071900258,5,A farensis,,False,1.1329011818201087,sub_adult,male,225,18.376194188900495,,"['Mussel', 'Barnacle', 'Coral Fragment', 'Hermit Crab', 'Sea Urchin']",10,Picking biofilm on submerged wood.
+225,13,6.537560300142046,3,A farensis,,False,36.19077332699993,sub_adult,female,226,14.698526523685427,,"['Hermit Crab', 'Jellyfish']",8,Sideways walking along bay edge.
+226,31,10.12719658785583,3,A farensis,,False,22.79236786978002,sub_adult,female,227,18.354771910459032,,['Small Fish'],3,Hiding in sandy burrow.
+227,38,6.179795322758736,3,u. olhanen.,,False,1.5289683057271195,pre_puberty,female,228,17.19587810407236,,"['Sea Anemone', 'Small Fish', 'Crab (Other Species)']",6,Waving claws rhythmically.
+228,12,6.8558467566594565,5,U. olhanensis,,False,0.5637732435802512,sub_adult,male,229,17.426194765113475,,"['Coral Fragment', 'Algae', 'Sea Urchin', 'Snail']",7,Climbing barnacle-covered surfaces.
+229,37,7.893922619778566,7,U. olhanensis,,False,2.4858123637389133,juvenile,male,230,20.490709868674333,,"['Shrimp', 'Coral Fragment', 'Crab (Other Species)', 'Barnacle']",6,Displaying dominance by lifting body.
+230,42,6.89678221626998,2,A farensis,,False,2.98722739088575,adult,female,231,22.233825672213175,,"['Sea Anemone', 'Snail', 'Crab (Other Species)', 'Barnacle', 'Coral Fragment']",7,Escaping predator silhouette overhead.
+231,19,7.9924507521060875,5,U. olhanensis,,True,23.543275026337128,sub_adult,nan,232,19.875596185865366,,"['Snail', 'Small Fish']",8,Rapid claw movement while feeding.
+232,22,10.384108735042947,2,U. olhanensis,,False,0.4017939640923898,adult,female,233,17.57195000251036,,"['Polychaete Worm', 'Barnacle', 'Sea Urchin']",9,Searching for mates at twilight.
+233,9,7.861762561526698,5,u. olhanen.,,False,14.410717776543155,sub_adult,male,234,16.05502446916549,,"['Polychaete Worm', 'Snail']",8,Claw waving directed at nearby crab.
+234,14,9.430163721760463,4,A farensis,,False,19.923622104752255,sub_adult,female,235,18.066576704141045,,['Sea Star'],6,Half buried in sand.
+235,27,8.98398156970102,7,U. olhanensis,,True,17.07176485256576,adult,male,236,21.281744308933245,,['Algae'],9,Picking algae from rock surface.
+236,30,5.9679603200869575,3,A. Farensis,,False,7.462042930209749,adult,female,237,17.195011924133578,,['Small Fish'],10,Waving claws rhythmically.
+237,27,7.792311030053258,6,u. olhanen.,,False,1.9492613438281625,juvenile,male,238,18.877693904601536,,"['Hermit Crab', 'Polychaete Worm', 'Barnacle', 'Shrimp']",11,Climbing onto submerged logs.
+238,21,7.249976531367603,5,A farensis,,True,2.8046589455534505,juvenile,male,239,18.64136228947862,,['Coral Fragment'],4,Climbing vertical rock face.
+239,9,8.105890759647357,4,U. olhanensis,,False,3.3007536248289524,pre_puberty,male,240,13.469121428586897,,"['Mussel', 'Jellyfish']",8,Scavenging near tidal pools.
+240,32,7.280764702320199,6,A farensis,,False,2.451061151175941,pre_puberty,male,241,20.13970644924148,,"['Sea Star', 'Barnacle', 'Algae', 'Snail', 'Crab (Other Species)']",6,Picking detritus from seabed.
+241,9,10.556047863133,4,A. Farensis,,True,0.9408881153301951,juvenile,female,242,16.469206195341975,,"['Sea Sponge', 'Jellyfish', 'Snail', 'Hermit Crab', 'Crab (Other Species)']",9,Picking biofilm on submerged wood.
+242,13,7.262475352596995,8,A farensis,,False,13.330560405599808,adult,female,243,18.816253371717536,,"['Sea Urchin', 'Sea Sponge', 'Snail', 'Coral Fragment']",10,Picking detritus from seabed.
+243,47,6.662580123515959,5,A farensis,,False,9.169504581905324,pre_puberty,female,244,25.377578531157827,,['Barnacle'],7,Picking biofilm on submerged wood.
+244,38,9.470808068409264,4,U. olhanensis,,True,17.144105586182896,juvenile,nan,245,19.5286153352271,,"['Snail', 'Sea Sponge', 'Jellyfish', 'Sea Urchin', 'Barnacle']",5,Struggling with entangled seaweed.
+245,45,8.246168983626127,2,U. olhanensis,,False,5.09685348268041,pre_puberty,male,246,20.93915141884303,,"['Crab (Other Species)', 'Sea Urchin', 'Sea Sponge', 'Barnacle', 'Snail']",6,Hiding beneath rocks.
+246,36,7.158534326717953,2,u. olhanen.,,False,4.496643558927933,pre_puberty,male,247,21.26129116547289,,"['Barnacle', 'Jellyfish', 'Polychaete Worm']",7,Picking algae from rock surface.
+247,12,10.433456997275165,2,A. Farensis,,False,13.529690659563965,juvenile, ,248,18.018905282089477,,"['Sea Sponge', 'Hermit Crab', 'Sea Anemone', 'Snail']",7,Camouflaging with surrounding mud.
+248,17,4.5820019431201855,4,A. Farensis,,False,1.3433854362211828,juvenile, ,249,17.631227351927574,,"['Sea Urchin', 'Snail', 'Jellyfish', 'Sea Sponge', 'Small Fish']",9,Claw waving directed at nearby crab.
+249,12,8.358103578846453,12,u. olhanen.,,False,63.003546845837846,juvenile,nan,250,13.81100189081443,,"['Shrimp', 'Sea Star', 'Jellyfish', 'Crab (Other Species)']",8,Climbing onto submerged logs.
+250,28,6.629703868978898,3,A. Farensis,,True,16.447160264049,pre_puberty,nan,251,20.5817317757326,,"['Algae', 'Sea Anemone']",11,Guarding eggs under abdominal flap.
+251,28,8.278370526579266,3,A. Farensis,,False,8.536291005265632,pre_puberty,male,252,19.84996449427118,,"['Sea Urchin', 'Jellyfish']",7,Scavenging near tidal pools.
+252,18,10.363741956540803,3,A. Farensis,,False,22.235234200221132,adult, ,253,17.19148215388467,,['Small Fish'],10,Climbing algae-covered rocks.
+253,29,6.950211608474643,3,A. Farensis,,False,91.05258637310598,pre_puberty,male,254,16.80476440795484,,"['Polychaete Worm', 'Snail', 'Small Fish', 'Algae', 'Barnacle']",11,Territorial display against intruder.
+254,21,6.423414515479434,2,u. olhanen.,,False,12.400572945634796,sub_adult, ,255,19.137079088702233,,"['Sea Star', 'Sea Urchin']",11,Displaying dominance by lifting body.
+255,48,7.607281091121124,3,A. Farensis,,False,9.70328010704776,pre_puberty, ,256,23.664380302507247,,"['Small Fish', 'Algae', 'Coral Fragment']",10,Exchanging antenna taps.
+256,44,8.573736595892756,3,A farensis,,False,43.54808858250649,juvenile,male,257,23.009189653938762,,"['Jellyfish', 'Shrimp', 'Sea Anemone', 'Snail']",8,Rapid claw movement while feeding.
+257,12,9.427294479657226,6,A. Farensis,,False,31.758794549762698,sub_adult,male or female,258,18.879847919364504,,['Sea Star'],9,Moving sideways along sandy bottom.
+258,23,9.230169595559094,4,A farensis,,False,103.77540824836314,pre_puberty,male,259,16.136967643478826,,['Sea Star'],8,Interaction with hermit crabs.
+259,20,7.793299768486591,4,U. olhanensis,,False,80.60074806256439,pre_puberty,male,260,18.109103800463778,,"['Small Fish', 'Hermit Crab', 'Sea Star']",10,Climbing barnacle-covered surfaces.
+260,20,7.643968526079199,2,A farensis,,False,3.7155763059958176,juvenile,female,261,16.365209589578793,,"['Shrimp', 'Polychaete Worm', 'Sea Anemone', 'Small Fish', 'Coral Fragment']",6,Rapid claw movement while feeding.
+261,27,6.927528486514152,2,A farensis,,False,5.409373381876601,adult,male,262,19.095359271261493,,['Snail'],10,Moving in groups.
+262,31,6.572710746767097,2,u. olhanen.,,False,16.331136837044603,pre_puberty,male,263,18.354544143999362,,['Jellyfish'],9,Claw snapping at diver.
+263,22,9.214371380149458,5,A farensis,,False,13.381563646305203,juvenile,male,264,19.57094518274091,,"['Sea Sponge', 'Crab (Other Species)']",5,Cleaning claws with rubbing motion.
+264,21,6.1744501741418745,2,A farensis,,False,3.490224218678834,pre_puberty,male,265,18.078918577643304,,['Hermit Crab'],7,Displaying dominance by lifting body.
+265,9,10.48197201378649,3,A farensis,,False,1.1620210725860372,adult,male,266,14.959045228488963,,"['Mussel', 'Jellyfish', 'Polychaete Worm', 'Sea Star', 'Small Fish']",8,Burrowing into sandy sediment.
+266,14,7.662516993928759,2,u. olhanen.,,False,7.111980674177442,juvenile,female,267,16.31762260285435,,"['Hermit Crab', 'Sea Anemone', 'Algae', 'Jellyfish']",11,Swimming short distance to escape.
+267,36,8.944437151621234,2,A. Farensis,,False,6.4720605891212415,adult,female,268,22.1882321953853,,"['Coral Fragment', 'Crab (Other Species)', 'Sea Urchin', 'Polychaete Worm']",10,Hiding under seagrass blades.
+268,29,7.070549127409841,2,u. olhanen.,,False,8.30574830836893,pre_puberty, ,269,19.155464477649154,,"['Snail', 'Coral Fragment', 'Hermit Crab', 'Sea Sponge', 'Sea Star']",5,Claw waving directed at nearby crab.
+269,21,7.7628603902381546,3,A farensis,,False,109.86936874464276,pre_puberty,male,270,18.523191102294053,,"['Small Fish', 'Shrimp', 'Hermit Crab', 'Jellyfish']",4,Cleaning claws with rubbing motion.
+270,26,8.411136140970587,3,A farensis,,True,150.0,sub_adult,male,271,17.14532193051419,,"['Coral Fragment', 'Mussel', 'Small Fish']",7,Climbing barnacle-covered surfaces.
+271,37,6.406931876785176,2,u. olhanen.,,True,37.40691564900479,juvenile,male,272,16.292416416299417,,['Barnacle'],11,Retreating quickly from shadow.
+272,31,6.985798487421596,7,A farensis,,False,1.5499382810378308,juvenile,N/R,273,20.169465140913246,,"['Hermit Crab', 'Small Fish', 'Sea Urchin', 'Shrimp', 'Algae']",12,Sitting still blending with environment.
+273,27,5.581986356849952,3,A farensis,,True,2.1680955886183804,adult,?,274,18.202769820955865,,"['Polychaete Worm', 'Hermit Crab', 'Crab (Other Species)', 'Snail']",8,Waving claws rhythmically.
+274,12,7.601971263066321,3,U. olhanensis,,False,-999.0,sub_adult,male,275,13.277587310468627,,"['Polychaete Worm', 'Sea Urchin', 'Coral Fragment', 'Sea Sponge']",9,Hiding beneath rocks.
+275,29,7.992488050652906,3,A. Farensis,,True,6.907715395247738,pre_puberty,male,276,16.8428040106484,,"['Sea Anemone', 'Coral Fragment', 'Sea Urchin', 'Small Fish']",11,Crab moving quickly across rocks.
+276,39,6.740313757713391,2,A farensis,,False,5.442423633347148,pre_puberty,?,277,20.19586361079861,,['Barnacle'],6,Claw snapping at diver.
+277,20,9.22762652431812,2,U. olhanensis,,False,1.2343043838594452,sub_adult,female,278,21.489188008668222,,['Barnacle'],8,Climbing algae-covered rocks.
+278,13,7.431400622409497,6,A. Farensis,,False,66.36357372704751,adult, ,279,15.73648908610296,,"['Sea Star', 'Crab (Other Species)']",7,Half buried in sand.
+279,45,7.812821028431177,2,A farensis,,False,11.610348266406282,pre_puberty, ,280,25.21797068743636,,"['Sea Urchin', 'Hermit Crab', 'Mussel', 'Polychaete Worm']",9,Cleaning claws with rubbing motion.
+280,28,4.739803797263622,9,U. olhanensis,,False,11.883241076099948,adult, ,281,17.257230641865217,,"['Jellyfish', 'Hermit Crab', 'Sea Urchin', 'Snail', 'Coral Fragment']",8,Interacting with small fish nearby.
+281,18,6.331806731529366,4,A. Farensis,,False,5.428506361506803,sub_adult, ,282,18.70989531261578,,"['Mussel', 'Sea Sponge', 'Barnacle', 'Polychaete Worm']",7,Feeding on detritus in shallow water.
+282,11,7.500019184693225,3,U. olhanensis,,False,12.49068304211664,adult,male,283,15.281596892345025,,"['Barnacle', 'Jellyfish', 'Crab (Other Species)']",9,Slow movement near seagrass patches.
+283,22,5.132841151830187,2,U. olhanensis,,False,1.6939655227423522,pre_puberty,female,284,17.448934072387686,,"['Barnacle', 'Snail', 'Polychaete Worm']",7,Foraging among seagrass roots.
+284,32,8.870643211758654,2,u. olhanen.,,False,17.689750216232827,juvenile,male,285,17.842639471945397,,['Hermit Crab'],12,Hiding under floating debris.
+285,12,6.732338031651658,3,u. olhanen.,,True,1.5575452390382145,pre_puberty, ,286,16.364278542354256,,['Algae'],8,Escaping from aggressive fish.
+286,15,9.68429837283422,6,u. olhanen.,,False,2.047227635193821,sub_adult, ,287,15.248773416087515,,"['Barnacle', 'Shrimp']",7,Stillness in cold water.
+287,15,6.5988386584599805,5,A farensis,,False,52.850706957747676,juvenile,male,288,17.016904606588067,,"['Small Fish', 'Hermit Crab']",9,Emerging cautiously from hiding.
+288,19,6.763498043430943,7,u. olhanen.,,False,23.041650692080474,sub_adult,female,289,18.716903335166236,,"['Barnacle', 'Coral Fragment', 'Small Fish', 'Jellyfish']",11,Feeding on algae scraped from rocks.
+289,31,6.816399443702027,3,A farensis,,False,14.28944044881271,adult, ,290,21.51195734155729,,"['Barnacle', 'Shrimp', 'Crab (Other Species)']",6,Guarding a small hole in sediment.
+290,39,7.502249361048163,7,U. olhanensis,,False,26.617465730836127,adult,female,291,20.64370034032013,,"['Mussel', 'Sea Anemone', 'Coral Fragment', 'Snail', 'Sea Star']",11,Color changes during molting.
+291,44,5.843945556791965,3,A. Farensis,,True,30.22912441670836,sub_adult,male,292,16.076988486799635,,"['Sea Sponge', 'Small Fish', 'Hermit Crab', 'Sea Anemone', 'Coral Fragment']",6,Foraging among seagrass roots.
+292,28,8.924153736263646,6,A farensis,,False,11.574338405562015,sub_adult,female,293,18.804815177556442,,"['Crab (Other Species)', 'Polychaete Worm', 'Coral Fragment']",9,Cleaning claws with rubbing motion.
+293,27,10.880777007485996,5,A. Farensis,,False,12.52596679644691,pre_puberty,male,294,19.101632389444386,,"['Sea Urchin', 'Jellyfish', 'Coral Fragment', 'Shrimp']",7,Waving claws rhythmically.
+294,27,9.296433506066638,6,A farensis,,False,1.83619066874592,pre_puberty,male or female,295,18.550924355587213,,['Hermit Crab'],8,Guarding eggs under abdominal flap.
+295,23,6.826196052305347,5,A. Farensis,,True,8.593986033443253,sub_adult,female,296,18.17928577325095,,"['Sea Sponge', 'Shrimp', 'Crab (Other Species)', 'Algae', 'Mussel']",13,Picking detritus from seabed.
+296,48,7.607185023247479,3,A farensis,,False,5.723022082003327,sub_adult,male,297,23.83011379679332,,"['Algae', 'Sea Sponge']",7,Color changes during molting.
+297,10,6.688507323613258,7,A farensis,,False,10.313001490920588,sub_adult,male or female,298,14.208624928671572,,['Coral Fragment'],10,Shaking claws after contact.
+298,20,9.376083591868444,5,u. olhanen.,,False,0.9415169368671509,adult,male or female,299,14.274231579451087,,"['Polychaete Worm', 'Small Fish', 'Sea Urchin', 'Coral Fragment']",8,Climbing submerged rocks.
+299,25,7.008387902707929,10,A farensis,,True,30.29760723425091,adult,male,300,17.850123296188162,,"['Sea Anemone', 'Sea Star', 'Crab (Other Species)']",13,Slow movement near seagrass patches.
+300,22,7.807807791189375,3,u. olhanen.,,False,16.465076344115893,pre_puberty,male,301,16.650731042500812,,"['Jellyfish', 'Polychaete Worm']",9,Guarding a small hole in sediment.
+301,10,5.113525563583686,4,u. olhanen.,,True,2.451198523733731,sub_adult,male or female,302,16.176742451230407,,"['Sea Urchin', 'Coral Fragment', 'Snail', 'Sea Star']",6,Guarding a small hole in sediment.
+302,27,4.38786716631798,4,A. Farensis,,True,192.43985994564645,adult,female,303,16.60243952814263,,"['Sea Anemone', 'Jellyfish', 'Polychaete Worm', 'Hermit Crab']",11,Climbing algae-covered rocks.
+303,21,6.4570271800632835,2,U. olhanensis,,True,11.430091130347765,pre_puberty,male,304,17.56376430437199,,"['Small Fish', 'Sea Star', 'Sea Urchin', 'Crab (Other Species)']",9,Moving toward warmer water pockets.
+304,18,10.050635679407744,6,u. olhanen.,,False,1.6164863632881836,juvenile,female,305,16.970790782167235,,"['Hermit Crab', 'Jellyfish', 'Snail', 'Coral Fragment', 'Sea Sponge']",8,Searching for food in tidal pools.
+305,40,7.090089736507477,3,A. Farensis,,False,6.377623114308988,sub_adult,?,306,22.633329463655876,,['Polychaete Worm'],9,Territorial display against intruder.
+306,19,7.59371681714393,7,u. olhanen.,,False,37.16984071056449,sub_adult,female,307,13.8571164682597,,"['Barnacle', 'Polychaete Worm', 'Sea Urchin', 'Crab (Other Species)', 'Coral Fragment']",7,Half buried in sand.
+307,28,9.054304226190528,4,u. olhanen.,,False,20.403269297327675,adult,male,308,12.783325091589191,,"['Hermit Crab', 'Snail', 'Jellyfish']",8,Hiding in sandy burrow.
+308,38,8.58257100520488,4,u. olhanen.,,False,0.5460364946359624,pre_puberty,female,309,21.863688188222785,,"['Crab (Other Species)', 'Polychaete Worm', 'Jellyfish', 'Sea Star']",6,Claw snapping at diver.
+309,24,10.323150811710889,9,A. Farensis,,False,5.131837901560747,pre_puberty,male,310,18.198129384951798,,"['Shrimp', 'Polychaete Worm', 'Mussel', 'Sea Star', 'Crab (Other Species)']",7,Hiding under floating debris.
+310,27,6.665942627749888,2,A. Farensis,,False,2.1599527663738063,juvenile,male,311,21.93457059161589,,"['Sea Anemone', 'Sea Urchin']",7,Moving sideways along sandy bottom.
+311,17,6.920957684485553,8,A farensis,,True,51.165087292424495,adult, ,312,16.892955587568597,,"['Jellyfish', 'Barnacle', 'Hermit Crab', 'Small Fish', 'Sea Sponge']",11,Hiding in sandy burrow.
+312,11,8.986736341927077,4,A farensis,,True,0.6441540151184681,sub_adult,male,313,17.504964673594237,,['Sea Star'],10,Retreating into burrow.
+313,18,7.975530489751276,4,A. Farensis,,True,8.700725195095522,sub_adult,female,314,20.518538585584537,,"['Hermit Crab', 'Crab (Other Species)', 'Sea Star', 'Small Fish']",7,Claw snapping in competition.
+314,20,5.673213245528265,5,A. Farensis,,True,3.0528392334034202,juvenile,male,315,16.180381044713428,,"['Small Fish', 'Crab (Other Species)']",5,Interacting with small fish nearby.
+315,21,8.806044330338397,7,u. olhanen.,,False,3.0557375688308896,adult,female,316,17.36710857896492,,"['Jellyfish', 'Mussel', 'Sea Urchin']",4,Moving in groups.
+316,26,10.062612623861085,3,A. Farensis,,False,22.94104685003968,juvenile,female,317,19.055302896113858,,['Mussel'],5,Searching for food in tidal pools.
+317,11,7.669133013679432,4,A. Farensis,,True,6.809438002256926,pre_puberty,male,318,16.04969669392879,,"['Jellyfish', 'Sea Sponge']",9,Resting under shell fragment.
+318,15,8.781755503513427,4,A. Farensis,,False,6.559051604259849,juvenile,female,319,15.447112304327812,,"['Sea Sponge', 'Small Fish', 'Algae', 'Coral Fragment']",7,Hiding in sandy burrow.
+319,13,6.287485483204642,3,U. olhanensis,,False,129.79305087889023,sub_adult,male,320,17.010532618455116,,"['Shrimp', 'Small Fish', 'Barnacle', 'Sea Anemone']",11,Feeding on algae scraped from rocks.
+320,13,8.33530614864923,10,U. olhanensis,,False,7.118121457183603,adult,female,321,17.64635800986405,,"['Shrimp', 'Barnacle', 'Mussel', 'Sea Urchin']",9,Picking detritus from seabed.
+321,12,9.201131173788037,2,u. olhanen.,,False,42.31189611958504,juvenile,male,322,14.51687338682007,,['Sea Star'],8,Hiding in sandy burrow.
+322,44,10.114112485207592,2,U. olhanensis,,False,10.069878353329184,adult,male,323,23.31595467438172,,"['Small Fish', 'Sea Star', 'Snail', 'Hermit Crab', 'Jellyfish']",8,Exchanging antenna taps.
+323,36,6.7001251742670975,3,U. olhanensis,,False,0.38517457283921197,sub_adult, ,324,19.749350530438004,,"['Hermit Crab', 'Sea Urchin', 'Sea Anemone', 'Small Fish', 'Sea Sponge']",11,Feeding on algae scraped from rocks.
+324,16,7.355959864221047,4,u. olhanen.,,False,3.931213273196298,pre_puberty,male,325,16.112471604400177,,['Sea Sponge'],8,Foraging among seagrass roots.
+325,11,7.962106000721061,9,u. olhanen.,,False,19.541939770545874,juvenile,male,326,13.249683931956937,,"['Shrimp', 'Crab (Other Species)', 'Sea Anemone']",4,Retreating quickly from shadow.
+326,15,6.367436803225159,2,u. olhanen.,,False,29.34839011359762,pre_puberty,female,327,16.740643081838737,,"['Barnacle', 'Snail', 'Coral Fragment', 'Sea Urchin', 'Small Fish']",11,Scavenging near tidal pools.
+327,19,6.739114694385903,2,u. olhanen.,,False,2.8542059250801852,pre_puberty,male,328,15.312177552219207,,"['Snail', 'Crab (Other Species)', 'Algae']",9,Hiding beneath rocks.
+328,61,7.945042962605673,4,u. olhanen.,,False,2.16155103758614,sub_adult,?,329,24.662376935435194,,"['Mussel', 'Barnacle']",8,Crab moving quickly across rocks.
+329,10,7.068355748190303,2,U. olhanensis,,False,6.033656896151467,pre_puberty,male,330,12.895449025476285,,['Crab (Other Species)'],11,Dragging shell fragment backward.
+330,19,8.221791736834493,5,U. olhanensis,,False,157.74851026671334,adult,female,331,15.985444133331502,,"['Snail', 'Mussel', 'Hermit Crab', 'Jellyfish']",6,Searching for mates at twilight.
+331,33,7.641441168009233,8,A. Farensis,,False,4.630984874205648,adult,male,332,22.88101124803879,,"['Snail', 'Coral Fragment', 'Algae', 'Sea Anemone', 'Shrimp']",8,Hiding beneath rocks.
+332,18,8.00051883292303,4,A farensis,,False,73.96495738871143,adult,male,333,15.96589481207167,,['Polychaete Worm'],5,Sitting still blending with environment.
+333,26,8.476235620676421,2,u. olhanen.,,False,1.1605434189088153,juvenile,male,334,16.791009989502207,,"['Sea Anemone', 'Coral Fragment']",9,Camouflaging with surrounding mud.
+334,12,5.925651734076913,4,A. Farensis,,False,3.9157008360857835,pre_puberty,male,335,14.035356281050493,,"['Mussel', 'Crab (Other Species)', 'Sea Sponge']",7,Cleaning claws with rubbing motion.
+335,19,10.417255583732816,3,A. Farensis,,False,14.544605404846838,juvenile, ,336,17.082880405921742,,"['Sea Sponge', 'Crab (Other Species)', 'Shrimp', 'Mussel']",9,Escaping from aggressive fish.
+336,21,6.876286218024955,7,u. olhanen.,,False,17.57426851754043,adult,male or female,337,15.607959388966801,,"['Algae', 'Sea Urchin', 'Sea Sponge', 'Sea Anemone']",7,Sideways walking along bay edge.
+337,26,7.764740380725027,4,A. Farensis,,False,6.409814064645627,pre_puberty,male,338,18.138433624635013,,"['Algae', 'Sea Urchin', 'Sea Star', 'Small Fish', 'Crab (Other Species)']",5,Color changes during molting.
+338,22,5.316524527296629,4,A. Farensis,,False,5.876486430563386,pre_puberty,female,339,20.876901314460987,,"['Polychaete Worm', 'Hermit Crab', 'Algae', 'Snail']",4,Mating behavior with antenna touching.
+339,9,8.142301099228291,2,A. Farensis,,True,13.08347958307804,sub_adult,male,340,16.357065268203286,,"['Mussel', 'Algae']",10,Stillness in cold water.
+340,11,6.05837967359704,2,A. Farensis,,True,39.30512964664772,juvenile,male,341,16.93469149737374,,"['Algae', 'Snail']",6,Retreating quickly from shadow.
+341,24,8.916752964154604,7,A. Farensis,,False,37.86099104501037,sub_adult,female,342,18.14865675933808,,"['Mussel', 'Sea Anemone', 'Shrimp', 'Sea Sponge', 'Sea Star']",8,Rapid claw movement while feeding.
+342,17,6.119057291565349,5,U. olhanensis,,False,6.352011727999738,pre_puberty, ,343,15.729109409544462,,"['Coral Fragment', 'Sea Urchin', 'Sea Star']",9,Struggling with entangled seaweed.
+343,19,10.29443988510215,5,u. olhanen.,,False,2.7695931842969594,pre_puberty,?,344,17.414630509166386,,['Coral Fragment'],7,Hiding under seagrass blades.
+344,18,7.513273303219471,2,A farensis,,False,8.689911771001235,sub_adult,male,345,15.915563030789754,,"['Coral Fragment', 'Sea Star', 'Sea Sponge', 'Sea Anemone']",8,Searching for mates at twilight.
+345,47,8.875295463102292,3,u. olhanen.,,True,1.3913010831132513,sub_adult,female,346,23.959450906472462,,"['Sea Urchin', 'Small Fish', 'Crab (Other Species)', 'Sea Sponge']",4,Exchanging antenna taps.
+346,38,5.606197333403086,4,A. Farensis,,False,11.742604686313298,adult,nan,347,24.561561870916982,,"['Small Fish', 'Jellyfish', 'Mussel', 'Sea Urchin']",9,Climbing vertical rock face.
+347,13,8.609291413159953,2,A farensis,,True,5.636059476127026,pre_puberty,male,348,16.412862760650896,,"['Sea Anemone', 'Jellyfish']",9,Picking detritus from seabed.
+348,21,6.979833061820149,5,A. Farensis,,False,1.0985906000219328,pre_puberty,?,349,17.93924270833167,,"['Hermit Crab', 'Shrimp', 'Algae']",4,Searching for mates at twilight.
+349,20,6.7553967643111195,3,u. olhanen.,,False,86.47109575748264,pre_puberty,?,350,16.494446252386666,,"['Shrimp', 'Mussel', 'Small Fish', 'Snail']",10,Feeding on small crustaceans.
+350,29,8.734389890983863,3,u. olhanen.,,False,5.85642722334445,juvenile,male,351,19.60576713937935,,['Small Fish'],9,Climbing vertical rock face.
+351,17,5.366588047342315,5,U. olhanensis,,False,11.296499024855752,juvenile,nan,352,20.133327032878928,,"['Sea Sponge', 'Shrimp', 'Sea Urchin', 'Sea Anemone', 'Sea Star']",9,Feeding on algae scraped from rocks.
+352,21,7.991072846553623,4,A farensis,,False,4.910981120593075,pre_puberty,male,353,19.43175230690897,,['Mussel'],9,Scavenging near tidal pools.
+353,41,8.49316970199798,3,u. olhanen.,,True,1.0484097919958502,pre_puberty,female,354,23.860977553380685,,"['Crab (Other Species)', 'Sea Urchin', 'Jellyfish', 'Small Fish', 'Shrimp']",5,Crab moving quickly across rocks.
+354,14,7.494375574390814,8,u. olhanen.,,True,4.715054725678303,sub_adult,male or female,355,18.50481875331507,,['Shrimp'],8,Crab moving quickly across rocks.
+355,22,5.748690013071603,8,A farensis,,False,1.4226418649298567,pre_puberty,male,356,18.89714003400848,,['Mussel'],7,Shaking claws after contact.
+356,40,5.325526393273046,3,U. olhanensis,,True,0.0938907638166177,juvenile, ,357,22.18684106826255,,"['Jellyfish', 'Barnacle']",8,Pausing frequently during exploration.
+357,21,7.640006945299124,2,U. olhanensis,,True,30.49238742319154,adult,nan,358,17.20483330673744,,['Algae'],10,Searching for mates at twilight.
+358,42,6.293298735615766,4,A. Farensis,,False,1.6739015648548479,adult,male or female,359,21.75287234967892,,"['Crab (Other Species)', 'Barnacle', 'Sea Urchin']",9,Crab moving quickly across rocks.
