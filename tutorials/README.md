@@ -1,10 +1,24 @@
 # Content
 
-
+## Raw data
 * Looking at the raw data.
 * Introducing Tidy data and data preprocessing.
 
-Solution to exercises can be found in separate NB in `tutorials/solutions_all.ipynb`.
+## Tidy data
+* Example of tidy vs untidy data
+* Apply and clean the raw data
+* Merging and saving data
+
+ ## Visualization
+* Inspecting the master dataset
+* Plot patterns
+* Collect analysis ideas
+
+## Data analysis
+* Examples of various types of analyses
+* Statistical
+* Time series
+* etc.
 
 ## Notebooks
 
